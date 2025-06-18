@@ -1,0 +1,13 @@
+prt_fild05 278 220 Bulletin Board
+prt_fild05 290 224 Kafra Employee
+prt_fild05 290 221 Tool Merchant
+prt_fild05 290 227 Storage Keeper
+prt_fild05 292 226 Wrapping Employee
+prt_fild05 285 378 Mage Master Instructor
+mjolnir_09 306 36 #mj09_find_4
+mjolnir_09 369 279 #mj09_find_5
+mjolnir_10 272 20 #mj10_find_3
+mjolnir_10 374 215 #mj10_find_2
+mjolnir_11 29 220 #mj11_find_1
+prt_fild05 270 212 Culvert Guardian
+prt_fild05 270 212 Culvert Guardian

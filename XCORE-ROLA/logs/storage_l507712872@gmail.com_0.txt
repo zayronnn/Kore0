@@ -1,0 +1,114 @@
+---------- Armazém 2025.06.18 14:24:00 -----------
+ 0 Aljava Comum x 30
+ 1 Maçã Dura x 5
+ 2 Carta Esporo x 3
+ 3 Vale-Presença x 8
+ 4 Mapa da Guilda x 1
+ 5 [Evento] Poção Média de Vida x 12
+ 6 [Evento] Poção Infinita x 2
+ 7 [Evento] Pergaminho de Defesa x 10
+ 8 [Evento] Bolinho Divino x 2
+ 9 [Evento] Poção Menor de Vida x 30
+10 [Evento] Poção Menor de Mana x 10
+11 [Evento] Manual de Combate x 2
+12 [Especial] Amuleto de Siegfried x 15
+13 Peixe Podre x 1
+14 Uvas x 13
+15 [Evento] Poção Amarela Compacta x 283
+16 [Evento] Néctar Divino x 15
+17 Caixa de Rédea (3 Dias) x 1
+18 [Evento] Poção de Regeneração x 20
+19 Poção Mental x 20
+20 Poção do Despertar x 4
+21 Asa de Mosca x 334
+22 Poção Menor de Vida x 14
+23 Areia Molhada x 105
+24 Natureza Grandiosa x 40
+25 Areia Fina x 30
+26 Torrão de Areia x 229
+27 Flor de Planta Carnívora x 71
+28 Raiz de Planta Carnívora x 25
+29 Melão Amarelo x 361
+30 Melão Suspeito x 9
+31 Minério de Oridecon x 31
+32 Melão Sombrio x 169
+33 Suco de Melão x 66
+34 Cura Nível 5 x 1
+35 Pena de Harpia x 38
+36 Garra de Harpia x 16
+37 Erva Amarela x 47
+38 Esporo de Cogumelo x 451
+39 Esporo Venenoso x 1102
+40 Muco Pegajoso x 768
+41 Erva Verde x 174
+42 Casca Rija x 864
+43 Erva Vermelha x 466
+44 Zargônio x 245
+45 Caule x 58
+46 Broto x 41
+47 Carta Poporing x 1
+48 Pão de Melão x 68
+49 Flor x 44
+50 Pluma x 68
+51 Garleta x 80
+52 Aço x 12
+53 Pele de Meloring x 55
+54 Cristal Azul x 31
+55 Erva Azul x 26
+56 Escama Afiada x 5
+57 Felpa x 20
+58 Erva Branca x 36
+59 Vale-Armazém x 33
+60 Maçã x 7
+61 Lantana x 13
+62 Sorvete de Melão x 18
+63 Karvodailnirol x 3
+64 Vento Bruto x 2
+65 Celatom x 5
+66 Menta x 5
+67 Mel x 1
+68 Makulrata x 1
+69 Detrimindexta x 1
+70 Pele de Minhoca x 658
+71 Brasão x 30
+72 Minério de Elunium x 10
+73 Língua de Réptil x 8
+74 Vida Verdejante x 8
+75 Esmeralda x 1
+76 Minhoca Gorducha x 2
+77 Poeira Estelar x 1
+78 Canino Venenoso x 14
+79 Canino de Dragão x 217
+80 Escamas de Cobra x 35
+81 Escama Brilhante x 33
+82 Foice de Louva-a-Deus x 60
+83 Unha Apodrecida x 33
+84 Dente de Morcego x 2
+85 Asa de Morcego Vermelho x 3
+86 Osso x 86
+87 Trança x 60
+88 Trança Curta x 31
+89 Amuleto x 1
+90 Scell x 24
+91 Cauda de Dragão x 14
+92 Escama de Dragão x 2
+93 Cajado do Hipnotizador [2] x 1 -- Não Identificado
+94 Chapéu [1] x 1
+95 Flor Romântica x 1
+96 Chapéu [1] x 1
+97 Chapéu [1] x 1
+98 Damascus [2] x 1
+99 Main Gauche [3] [1 Option] x 1
+100 Main Gauche [3] [1 Option] x 1
+101 Main Gauche [3] [1 Option] x 1
+102 Damascus [1] x 1
+103 Teia de Aranha x 79
+104 Antenas de Inseto x 1
+105 Casco de Inseto x 3
+106 Pata de Besouro x 6
+107 Pata de Inseto x 72
+108 Pele de Verme x 4
+109 Folha de Aloe x 1
+
+Capacidade: 110/600
+-------------------------------

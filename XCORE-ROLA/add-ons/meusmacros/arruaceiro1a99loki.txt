@@ -1,0 +1,165 @@
+automacro startLeveling {
+    BaseLevel < 9
+    JobLevel == 1
+    run-once 1
+    call setup
+}
+
+macro setup {
+    do conf autoTalkCont 1
+    do conf skillsAddAuto 1
+    do conf statsAddAuto 1
+    do conf statsAddAuto_dontUseBonus 1
+    do conf statsAdd_over_99 0
+    do conf itemsMaxWeight_sellOrStore 70
+    do conf lockMap prt_fild08
+    call poring
+}
+
+automacro checkPoring {
+    BaseLevel <= 7
+    JobLevel <= 10
+    run-once 1
+    call poring
+}
+
+macro poring {
+    do conf route_randomWalk 1
+    do conf attackAuto 2
+    do conf storageAuto none
+    do conf sellAuto 1
+    do conf sellAuto_npc payon 159 96
+    do conf lockMap prt_fild08
+}
+
+automacro checkEsporo {
+    BaseLevel >= 8
+    BaseLevel <= 27
+    run-once 1
+    call esporo
+}
+
+macro esporo {
+    do conf lockMap pay_fild08
+    do conf route_randomWalk 1
+    do conf attackAuto 2
+    do conf sellAuto 1
+    do conf sellAuto_npc payon 159 96
+}
+
+automacro checkBigfoot {
+    BaseLevel >= 28
+    BaseLevel <= 44
+    run-once 1
+    call bigfoot
+}
+
+macro bigfoot {
+    do conf lockMap pay_fild07
+    do conf route_randomWalk 1
+    do conf attackAuto 2
+    do conf sellAuto 1
+    do conf sellAuto_npc payon 159 96
+}
+
+automacro checkWolf {
+    BaseLevel >= 45
+    BaseLevel <= 68
+    JobLevel < 40
+    JobID 6
+    run-once 1
+    call wolf
+}
+
+macro wolf {
+    do conf lockMap mjolnir_07
+    do conf route_randomWalk 1
+    do conf attackAuto 2
+    do conf teleportAuto_minAggressivesInLock 3
+}
+
+# NOVO: Caçar Mosca Caçadora de 71 a 81
+automacro checkHuntFly {
+    BaseLevel >= 69
+    BaseLevel <= 78
+    run-once 1
+    call huntFly
+}
+
+macro huntFly {
+    do autosell
+    do conf lockMap geffen_dun00
+    do conf route_randomWalk 1
+    do conf attackAuto 2
+    do conf sellAuto 1
+    do conf sellAuto_npc geffen 193 152
+}
+
+# Atualizado: ir para Petite apenas a partir do 82
+automacro checkPetite {
+    BaseLevel >= 79
+    BaseLevel <= 98
+    run-once 1
+    call petiteSetup
+}
+
+macro petiteSetup {
+    do autosell
+    do conf lockMap geffen 116 68
+    do conf sellAuto_npc geffen 193 152
+    do conf attackAuto 2
+    do conf route_randomWalk 1
+    do move geffen 116 68
+    pause 1
+    call petite
+}
+
+macro petite {
+    do conf lockMap gef_fild06
+}
+
+automacro checkJobChangeThief {
+    JobLevel == 10
+    JobID == 0
+    run-once 1
+    call virarGatuno
+}
+
+macro virarGatuno {
+    do conf attackAuto 0
+    do move payon 166 172
+    pause 2
+    do talknpc 169 172
+    pause 1
+    do talk resp 1
+    pause 1
+    do talk resp 0
+    pause 1
+    do talk resp 5
+    pause 5
+    do eq Faca [3]
+    do conf attackAuto 2
+}
+
+automacro checkJobChangeRogue {
+    JobLevel == 40
+    JobID == 6
+    run-once 1
+    call virarRogue
+}
+
+macro virarRogue {
+    do conf attackAuto 0
+    do move moc_fild13 35 171
+    do talknpc 32 171 r3
+    pause 5
+    do move morocc 147 272
+    do talknpc 148 272
+    pause 1
+    do talk resp 1
+    do talk resp 1
+    do talk resp 2
+    pause 5
+    do eq Faca [3]
+    do conf attackAuto 2
+}

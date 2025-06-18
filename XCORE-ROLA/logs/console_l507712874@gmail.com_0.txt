@@ -1,0 +1,1573 @@
+[2025.06.18 13:37:25.23] [eventMacro] registering sub 'check_rodex_id'.
+[2025.06.18 13:37:25.24] [eventMacro] registering sub 'count_rodex'.
+[2025.06.18 13:37:25.29] control\eventMacros.txt: ignoring line 'useSelf_item Asa de Borboleta de Iniciante {' in line 1 (munch, munch, strange block)
+[2025.06.18 13:37:25.35] [eventMacro] Ignoring automacro 'MoveToNextQuest' (priority parameter should be a number)
+[2025.06.18 13:37:26.98] [macro] hooking to AI_pre
+[2025.06.18 13:37:27.27] 
+Gerando Senha de Administrador...
+[2025.06.18 13:37:27.43] Checando novos portais... [2025.06.18 13:37:27.14] nenhum encontrado
+
+[2025.06.18 13:37:27.17] 
+[2025.06.18 13:37:27.18] Conectando-se ao Servidor de Contas...
+[2025.06.18 13:37:28.16] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 13:37:28.20] conectado
+[2025.06.18 13:37:28.27] Desconectando-se (172.65.172.79:6951)...[2025.06.18 13:37:28.27] desconectado
+[2025.06.18 13:37:28.28] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 13:37:28.30] conectado
+[2025.06.18 13:37:28.34] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 1159523287 D7 EB 1C 45
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 13:37:28.35] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 9622   lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               3897   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1410   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 13:37:28.36] Fechando conexão com o Servidor de Contas
+[2025.06.18 13:37:28.38] Desconectando-se (172.65.172.79:6900)...[2025.06.18 13:37:28.38] desconectado
+[2025.06.18 13:37:28.39] Conectando-se ao Servidor de Personagens...
+[2025.06.18 13:37:28.40] Servidor selecionado: Yggdrasil
+[2025.06.18 13:37:28.40] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 13:37:28.42] conectado
+[2025.06.18 13:37:28.49] Personagens recebidos do Servidor de Personagens
+[2025.06.18 13:37:28.50] Esperando pelo pedido do código PIN
+[2025.06.18 13:37:28.50] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 13:37:28.57] Código PIN correto.
+[2025.06.18 13:37:28.58] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, prt_fild05)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 13:37:28.61] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 13:37:28.62] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: prt_fild05.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10020
+-----------------------------
+[2025.06.18 13:37:28.63] Fechando conexão com o Servidor de Personagens
+[2025.06.18 13:37:28.63] Desconectando-se (172.65.169.174:4500)...[2025.06.18 13:37:28.64] desconectado
+[2025.06.18 13:37:28.66] Conectando-se ao Servidor de Mapas...
+[2025.06.18 13:37:28.67] Conectando-se (lt-world-3-02.gnjoylatam.com:10020)... [2025.06.18 13:37:28.67] conectado
+[2025.06.18 13:37:28.83] You have successfully expanded the possession limit.
+[2025.06.18 13:37:28.90] Você está no jogo agora.
+[2025.06.18 13:37:28.92] Suas coordenadas: 286, 231
+[2025.06.18 13:37:28.95] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 13:37:28.96] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 13:37:29.15] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 13:37:29.16] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 13:37:29.17] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 13:37:29.18] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 13:37:29.18] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 13:37:29.26] ===================== Informações do Servidor =====================
+[2025.06.18 13:37:29.27] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:37:29.28] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:37:29.28] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 13:37:29.29] =====================================================================
+[2025.06.18 13:37:29.30] Você tem rodex não lidos.
+[2025.06.18 13:37:29.31] Você tem rodex não lidos.
+[2025.06.18 13:37:29.32] Existe um NPC: Bulletin Board (278, 220) (ID 5740) - (0)
+[2025.06.18 13:37:29.34] Existe um NPC: Kafra Employee (290, 224) (ID 5601) - (1)
+[2025.06.18 13:37:29.35] Existe um NPC: Tool Merchant (290, 221) (ID 5605) - (2)
+[2025.06.18 13:37:30.21] Existe um NPC: Storage Keeper (290, 227) (ID 5638) - (3)
+[2025.06.18 13:37:30.23] Existe um NPC: Wrapping Employee (292, 226) (ID 5655) - (4)
+[2025.06.18 13:37:30.25] [eventMacro] Conditions met for automacro 'KafraSavePoints', calling macro 'ChangeSavePoints '
+[2025.06.18 13:37:30.26] [raiseSkill] A habilidade 'Perícia com Espada' não existe na árvore de habilidades; desativando skillsAddAuto
+[2025.06.18 13:37:30.28] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 13:37:30.29] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 13:37:30.30] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 13:37:30.31] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 13:37:30.32] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 13:37:30.33] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 13:37:30.35] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 13:37:30.35] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 13:37:30.36] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 13:37:30.38] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 13:37:30.39] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 13:37:30.40] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 13:37:30.41] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 13:37:30.42] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 13:37:30.43] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 13:37:30.44] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 13:37:30.45] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 13:37:30.46] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 13:37:30.48] [eventmacro message] You are already saved on this location
+[2025.06.18 13:37:31.60] [AdbA] abriu [Desconhecido #104829] e recebeu o item [Desconhecido #19265].
+[2025.06.18 13:37:32.49] Calculating lockMap route to: Monte Mjolnir (11)(mjolnir_11)
+[2025.06.18 13:37:32.53] [eventMacro] Conditions met for automacro 'SetGrindingSpot', calling macro 'ChangeGrindMaps '
+[2025.06.18 13:37:32.58] [eventmacro message] SetGrindingSpot: You have reached max level congratulations!
+[2025.06.18 13:37:33.70] [eventMacro] Conditions met for automacro 'RodexCards', calling macro 'MailCards '
+[2025.06.18 13:37:33.75] [eventmacro message] No cards available
+[2025.06.18 13:37:33.92] [dist=14.1] Monstro Thief Bug Egg (1): *Sweat*
+[2025.06.18 13:37:36.78] [eventMacro] Conditions met for automacro 'RodexEquips', calling macro 'MailEquips '
+[2025.06.18 13:37:36.88] Sending request to open rodex normal mailbox.
+[2025.06.18 13:37:36.95] -------------------------------------------------- Rodex Mail Page 0 --------------------------------------------------
+ #  ID       From                    Att  New  Expire    Title
+ 0  328890   Gerenciamento           gift Sim   14 Days  6º dia de Logue e Ganhe
+ 1  325456   Gerenciamento           -    Sim   14 Days  5º dia de Logue e Ganhe
+ 2  306455   Gerenciamento           -    Sim   13 Days  4º dia de Logue e Ganhe
+ 3  290581   Gerenciamento           -    Sim   11 Days  3º dia de Logue e Ganhe
+ 4  272031   Gerenciamento           -    Sim   10 Days  2º dia de Logue e Ganhe
+ 5  271255    oDURCg                 -    Sim   10 Days   oTURCg  
+ 6  260307   Gerenciamento           -    Sim    9 Days  1º dia de Logue e Ganhe
+ 7  2721856  RO GM                   -    Sim    8 Days   Qyg  
+ 8  2721853  RO GM                   -    Sim    8 Days   Gig  
+ 9  2721852  RO GM                   -    Sim    8 Days   GSg  
+10  2721851  RO GM                   -    Sim    8 Days   GCg  
+11  2721850  RO GM                   -    Sim    8 Days   Fyg  
+-----------------------------------------------------------------------------------------------------------------------
+[2025.06.18 13:37:38.91] Abrindo a caixa de escrita do rodex. Caixa: Matonha
+[2025.06.18 13:37:38.97] --------------------- Rodex Mail Target ----------------------
+   Name: Matonha                  Base Level: 140
+Char ID: 105895                   Class: Ranger
+--------------------------------------------------------------
+[2025.06.18 13:37:40.92] Você já definiu o destinatário.
+[2025.06.18 13:37:42.94] Título do rodex alterado para 'TITLE'.
+[2025.06.18 13:37:44.97] Corpo do rodex definido como 'TITLE'.
+[2025.06.18 13:37:46.12] [dist=14.1] Monstro Thief Bug Egg (1): *Sweat*
+[2025.06.18 13:37:46.99] Zeny do rodex definido como '0'.
+[2025.06.18 13:37:49.63] Enviando rodex.
+[2025.06.18 13:37:49.11] Seu rodex foi enviado com sucesso.
+[2025.06.18 13:37:51.80] Seu rodex já foi fechado.
+[2025.06.18 13:37:51.22] [dist=14.1] Monstro Thief Bug Egg (1): *Sweat*
+[2025.06.18 13:37:51.44] [Perseo7] abriu [Desconhecido #104830] e recebeu o item [Chapéu de Rideword].
+[2025.06.18 13:38:03.46] [AdbA] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Eddga].
+[2025.06.18 13:38:13.57] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 36 segundos...
+[2025.06.18 13:38:23.41] Saindo...
+[2025.06.18 13:38:23.44] Plugin breakTime descarregado.
+[2025.06.18 13:38:23.45] [eventMacro] Plugin unloading
+[2025.06.18 13:38:23.46] Plugin eventMacro descarregado.
+[2025.06.18 13:38:23.47] Plugin item_weight_recorder descarregado.
+[2025.06.18 13:38:23.47] macro plugin unloading, [2025.06.18 13:38:23.49] cleaning up
+[2025.06.18 13:38:23.49] Plugin macro descarregado.
+[2025.06.18 13:38:23.51] map unloaded.
+[2025.06.18 13:38:23.51] Plugin map descarregado.
+[2025.06.18 13:38:23.51] Plugin profiles descarregado.
+[2025.06.18 13:38:23.52] [raiseSkill] Plugin descarregando ou recarregando
+[2025.06.18 13:38:23.52] Plugin raiseSkill descarregado.
+[2025.06.18 13:38:23.53] [raiseStat] Plugin descarregando ou recarregando
+[2025.06.18 13:38:23.53] Plugin raiseStat descarregado.
+[2025.06.18 13:38:23.53] Plugin reconnect descarregado.
+[2025.06.18 13:38:23.54] xConf plugin reloading or unloading
+[2025.06.18 13:38:23.54] Plugin xConf descarregado.
+[2025.06.18 13:38:23.54] *** xRAYS-CORE 1 ( version ctime:2025_06_18 ) - Custom Ragnarok Online client ***
+***   https://www.xrayscheat.com/   ***
+[2025.06.18 13:40:35.70] [eventMacro] registering sub 'check_rodex_id'.
+[2025.06.18 13:40:35.79] [eventMacro] registering sub 'count_rodex'.
+[2025.06.18 13:40:35.11] control\eventMacros.txt: ignoring line 'useSelf_item Asa de Borboleta de Iniciante {' in line 1 (munch, munch, strange block)
+[2025.06.18 13:40:35.14] [eventMacro] Ignoring automacro 'MoveToNextQuest' (priority parameter should be a number)
+[2025.06.18 13:40:35.19] [macro] hooking to AI_pre
+[2025.06.18 13:40:35.20] 
+Gerando Senha de Administrador...
+[2025.06.18 13:40:35.25] Checando novos portais... [2025.06.18 13:40:35.34] nenhum encontrado
+
+[2025.06.18 13:40:35.38] 
+[2025.06.18 13:40:35.39] Conectando-se ao Servidor de Contas...
+[2025.06.18 13:40:36.41] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 13:40:36.45] conectado
+[2025.06.18 13:40:36.51] Desconectando-se (172.65.172.79:6951)...[2025.06.18 13:40:36.52] desconectado
+[2025.06.18 13:40:36.53] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 13:40:36.54] conectado
+[2025.06.18 13:40:36.59] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 2222755427 63 8E 7C 84
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 13:40:36.60] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 9699   lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               3923   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1418   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 13:40:36.61] Fechando conexão com o Servidor de Contas
+[2025.06.18 13:40:36.62] Desconectando-se (172.65.172.79:6900)...[2025.06.18 13:40:36.62] desconectado
+[2025.06.18 13:40:36.63] Conectando-se ao Servidor de Personagens...
+[2025.06.18 13:40:36.64] Servidor selecionado: Yggdrasil
+[2025.06.18 13:40:36.65] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 13:40:36.67] conectado
+[2025.06.18 13:40:36.78] Personagens recebidos do Servidor de Personagens
+[2025.06.18 13:40:36.78] Esperando pelo pedido do código PIN
+[2025.06.18 13:40:36.79] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 13:40:36.82] Código PIN correto.
+[2025.06.18 13:40:36.84] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, prt_fild05)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 13:40:36.87] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 13:40:36.88] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: prt_fild05.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10020
+-----------------------------
+[2025.06.18 13:40:36.89] Fechando conexão com o Servidor de Personagens
+[2025.06.18 13:40:36.89] Desconectando-se (172.65.169.174:4500)...[2025.06.18 13:40:36.90] desconectado
+[2025.06.18 13:40:36.92] Conectando-se ao Servidor de Mapas...
+[2025.06.18 13:40:36.93] Conectando-se (lt-world-3-02.gnjoylatam.com:10020)... [2025.06.18 13:40:36.95] conectado
+[2025.06.18 13:40:37.13] You have successfully expanded the possession limit.
+[2025.06.18 13:40:37.20] Você está no jogo agora.
+[2025.06.18 13:40:37.22] Suas coordenadas: 308, 335
+[2025.06.18 13:40:37.23] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 13:40:37.24] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 13:40:37.39] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 13:40:37.40] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 13:40:37.41] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 13:40:37.42] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 13:40:37.42] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 13:40:37.52] ===================== Informações do Servidor =====================
+[2025.06.18 13:40:37.53] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:40:37.54] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:40:37.55] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 13:40:37.56] =====================================================================
+[2025.06.18 13:40:37.58] Você tem rodex não lidos.
+[2025.06.18 13:40:37.58] Você tem rodex não lidos.
+[2025.06.18 13:40:37.62] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 13:40:37.63] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 13:40:37.63] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 13:40:37.64] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 13:40:37.65] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 13:40:37.66] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 13:40:37.67] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 13:40:37.68] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 13:40:37.68] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 13:40:37.69] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 13:40:37.70] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 13:40:37.70] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 13:40:37.71] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 13:40:37.72] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 13:40:37.73] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 13:40:37.74] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 13:40:37.74] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 13:40:37.75] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 13:40:38.22] [eventMacro] Conditions met for automacro 'KafraSavePoints', calling macro 'ChangeSavePoints '
+[2025.06.18 13:40:38.23] [raiseSkill] A habilidade 'Perícia com Espada' não existe na árvore de habilidades; desativando skillsAddAuto
+[2025.06.18 13:40:38.26] [eventmacro message] You are already saved on this location
+[2025.06.18 13:40:40.28] Calculating lockMap route to: Monte Mjolnir (11)(mjolnir_11)
+[2025.06.18 13:40:40.33] [eventMacro] Conditions met for automacro 'SetGrindingSpot', calling macro 'ChangeGrindMaps '
+[2025.06.18 13:40:40.39] [eventmacro message] SetGrindingSpot: You have reached max level congratulations!
+[2025.06.18 13:40:41.54] [eventMacro] Conditions met for automacro 'RodexEquips', calling macro 'MailEquips '
+[2025.06.18 13:40:41.65] Sending request to open rodex normal mailbox.
+[2025.06.18 13:40:41.72] -------------------------------------------------- Rodex Mail Page 0 --------------------------------------------------
+ #  ID       From                    Att  New  Expire    Title
+ 0  328890   Gerenciamento           gift Sim   14 Days  6º dia de Logue e Ganhe
+ 1  325456   Gerenciamento           -    Sim   14 Days  5º dia de Logue e Ganhe
+ 2  306455   Gerenciamento           -    Sim   13 Days  4º dia de Logue e Ganhe
+ 3  290581   Gerenciamento           -    Sim   11 Days  3º dia de Logue e Ganhe
+ 4  272031   Gerenciamento           -    Sim   10 Days  2º dia de Logue e Ganhe
+ 5  271255    oDURCg                 -    Sim   10 Days   oTURCg  
+ 6  260307   Gerenciamento           -    Sim    9 Days  1º dia de Logue e Ganhe
+ 7  2721856  RO GM                   -    Sim    8 Days   Qyg  
+ 8  2721853  RO GM                   -    Sim    8 Days   Gig  
+ 9  2721852  RO GM                   -    Sim    8 Days   GSg  
+10  2721851  RO GM                   -    Sim    8 Days   GCg  
+11  2721850  RO GM                   -    Sim    8 Days   Fyg  
+-----------------------------------------------------------------------------------------------------------------------
+[2025.06.18 13:40:43.68] Abrindo a caixa de escrita do rodex. Caixa: Matonha
+[2025.06.18 13:40:43.74] --------------------- Rodex Mail Target ----------------------
+   Name: Matonha                  Base Level: 140
+Char ID: 105895                   Class: Ranger
+--------------------------------------------------------------
+[2025.06.18 13:40:45.71] Você já definiu o destinatário.
+[2025.06.18 13:40:47.74] Título do rodex alterado para 'TITLE'.
+[2025.06.18 13:40:49.76] Corpo do rodex definido como 'TITLE'.
+[2025.06.18 13:40:51.77] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 30 segundos...
+[2025.06.18 13:41:21.79] Conectando-se ao Servidor de Contas...
+[2025.06.18 13:41:21.81] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 13:41:21.82] conectado
+[2025.06.18 13:41:21.90] Desconectando-se (172.65.172.79:6951)...[2025.06.18 13:41:21.91] desconectado
+[2025.06.18 13:41:21.93] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 13:41:21.94] conectado
+[2025.06.18 13:41:21.98] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 2834689378 62 ED F5 A8
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 13:41:21.99] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 9748   lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               3942   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1426   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 13:41:22.30] Fechando conexão com o Servidor de Contas
+[2025.06.18 13:41:22.87] Desconectando-se (172.65.172.79:6900)...[2025.06.18 13:41:22.11] desconectado
+[2025.06.18 13:41:22.18] Conectando-se ao Servidor de Personagens...
+[2025.06.18 13:41:22.24] Servidor selecionado: Yggdrasil
+[2025.06.18 13:41:22.30] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 13:41:22.62] conectado
+[2025.06.18 13:41:22.14] Personagens recebidos do Servidor de Personagens
+[2025.06.18 13:41:22.15] Esperando pelo pedido do código PIN
+[2025.06.18 13:41:22.17] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 13:41:22.21] Código PIN correto.
+[2025.06.18 13:41:22.23] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, prt_fild05)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 13:41:22.26] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 13:41:22.26] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: prt_fild05.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10020
+-----------------------------
+[2025.06.18 13:41:22.27] Fechando conexão com o Servidor de Personagens
+[2025.06.18 13:41:22.28] Desconectando-se (172.65.169.174:4500)...[2025.06.18 13:41:22.28] desconectado
+[2025.06.18 13:41:22.29] Conectando-se ao Servidor de Mapas...
+[2025.06.18 13:41:22.30] Conectando-se (lt-world-3-02.gnjoylatam.com:10020)... [2025.06.18 13:41:22.32] conectado
+[2025.06.18 13:41:22.49] You have successfully expanded the possession limit.
+[2025.06.18 13:41:22.56] Você está no jogo agora.
+[2025.06.18 13:41:22.59] Suas coordenadas: 308, 335
+[2025.06.18 13:41:22.61] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 13:41:22.63] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 13:41:22.70] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 13:41:22.71] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 13:41:22.72] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 13:41:22.72] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 13:41:22.73] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 13:41:22.89] ===================== Informações do Servidor =====================
+[2025.06.18 13:41:22.90] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:41:22.91] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:41:22.91] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 13:41:22.92] =====================================================================
+[2025.06.18 13:41:22.93] Você tem rodex não lidos.
+[2025.06.18 13:41:22.94] Você tem rodex não lidos.
+[2025.06.18 13:41:22.98] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 13:41:22.99] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 13:41:22.99] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 13:41:23.54] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 13:41:23.12] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 13:41:23.19] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 13:41:23.26] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 13:41:23.35] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 13:41:23.43] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 13:41:23.51] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 13:41:23.59] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 13:41:23.67] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 13:41:23.76] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 13:41:23.84] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 13:41:23.94] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 13:41:23.10] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 13:41:23.10] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 13:41:23.11] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 13:41:23.60] Seu rodex está fechado.
+[2025.06.18 13:41:25.66] Seu rodex está fechado.
+[2025.06.18 13:41:27.67] Seu rodex está fechado.
+[2025.06.18 13:41:30.71] [eventMacro] Conditions met for automacro 'RodexCards', calling macro 'MailCards '
+[2025.06.18 13:41:30.78] [eventmacro message] No cards available
+[2025.06.18 13:41:37.15] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 33 segundos...
+[2025.06.18 13:42:10.17] Conectando-se ao Servidor de Contas...
+[2025.06.18 13:42:10.19] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 13:42:10.20] conectado
+[2025.06.18 13:42:10.25] Desconectando-se (172.65.172.79:6951)...[2025.06.18 13:42:10.25] desconectado
+[2025.06.18 13:42:10.26] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 13:42:10.29] conectado
+[2025.06.18 13:42:10.34] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 1208671829 55 DE 0A 48
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 13:42:10.36] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 9749   lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               3920   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1418   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 13:42:10.37] Fechando conexão com o Servidor de Contas
+[2025.06.18 13:42:10.37] Desconectando-se (172.65.172.79:6900)...[2025.06.18 13:42:10.38] desconectado
+[2025.06.18 13:42:10.39] Conectando-se ao Servidor de Personagens...
+[2025.06.18 13:42:10.39] Servidor selecionado: Yggdrasil
+[2025.06.18 13:42:10.40] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 13:42:10.42] conectado
+[2025.06.18 13:42:10.50] Personagens recebidos do Servidor de Personagens
+[2025.06.18 13:42:10.51] Esperando pelo pedido do código PIN
+[2025.06.18 13:42:10.52] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 13:42:10.56] Código PIN correto.
+[2025.06.18 13:42:10.57] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, prt_fild05)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 13:42:10.59] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 13:42:10.60] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: prt_fild05.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10020
+-----------------------------
+[2025.06.18 13:42:10.61] Fechando conexão com o Servidor de Personagens
+[2025.06.18 13:42:10.62] Desconectando-se (172.65.169.174:4500)...[2025.06.18 13:42:10.62] desconectado
+[2025.06.18 13:42:10.65] Conectando-se ao Servidor de Mapas...
+[2025.06.18 13:42:10.67] Conectando-se (lt-world-3-02.gnjoylatam.com:10020)... [2025.06.18 13:42:10.69] conectado
+[2025.06.18 13:42:10.86] You have successfully expanded the possession limit.
+[2025.06.18 13:42:10.93] Você está no jogo agora.
+[2025.06.18 13:42:10.95] Suas coordenadas: 307, 336
+[2025.06.18 13:42:10.98] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 13:42:10.99] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 13:42:11.75] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 13:42:11.85] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 13:42:11.98] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 13:42:11.10] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 13:42:11.11] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 13:42:11.28] ===================== Informações do Servidor =====================
+[2025.06.18 13:42:11.29] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:42:11.29] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:42:11.30] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 13:42:11.31] =====================================================================
+[2025.06.18 13:42:11.32] Você tem rodex não lidos.
+[2025.06.18 13:42:11.32] Você tem rodex não lidos.
+[2025.06.18 13:42:11.36] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 13:42:11.37] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 13:42:11.38] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 13:42:11.38] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 13:42:11.39] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 13:42:11.40] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 13:42:11.40] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 13:42:11.41] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 13:42:11.42] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 13:42:11.43] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 13:42:11.43] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 13:42:11.44] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 13:42:11.45] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 13:42:11.46] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 13:42:11.47] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 13:42:11.48] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 13:42:11.49] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 13:42:11.50] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 13:42:14.72] [dist=desconhecido] Desconhecido #1096: *Sweat*
+[2025.06.18 13:42:16.52] Existe um NPC: Mage Master Instructor (285, 378) (ID 5794) - (0)
+[2025.06.18 13:42:17.46] Existe um portal: prt_fild05 -> mjolnir_09 (292, 385) - (0)
+[2025.06.18 13:42:19.22] ---------Map  Info----------
+MAP Name: mjolnir_09.gat
+MAP IP: lt-world-3-02.gnjoy
+MAP Port: 10019
+-------------------------------
+[2025.06.18 13:42:19.23] Fechando conexão com o Servidor de Mapa
+[2025.06.18 13:42:19.24] Desconectando-se (172.65.169.174:10020)...[2025.06.18 13:42:19.25] desconectado
+[2025.06.18 13:42:19.38] Conectando-se ao Servidor de Mapas...
+[2025.06.18 13:42:19.40] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 13:42:19.41] conectado
+[2025.06.18 13:42:19.56] You have successfully expanded the possession limit.
+[2025.06.18 13:42:19.64] Você está no jogo agora.
+[2025.06.18 13:42:19.67] Suas coordenadas: 305, 33
+[2025.06.18 13:42:19.71] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 13:42:19.73] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 13:42:19.78] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 13:42:19.79] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 13:42:19.80] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 13:42:19.81] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 13:42:19.82] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 13:42:20.20] Existe um NPC: #mj09_find_4 (306, 36) (ID 4721) - (0)
+[2025.06.18 13:42:20.32] Existe um portal: mjolnir_09 -> prt_fild05 (300, 28) - (0)
+[2025.06.18 13:42:22.45] [dist=18.4] Monstro Savage Babe (0): *Sweat*
+[2025.06.18 13:42:28.47] [dist=desconhecido] Desconhecido #1271: *Sweat*
+[2025.06.18 13:42:30.97] [dist=10] Monstro Savage Babe (5): *Sweat*
+[2025.06.18 13:42:34.22] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 44 segundos...
+[2025.06.18 13:43:18.24] Conectando-se ao Servidor de Contas...
+[2025.06.18 13:43:18.25] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 13:43:18.28] conectado
+[2025.06.18 13:43:18.35] Desconectando-se (172.65.172.79:6951)...[2025.06.18 13:43:18.35] desconectado
+[2025.06.18 13:43:18.36] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 13:43:18.39] conectado
+[2025.06.18 13:43:18.44] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 2227133772 4C 5D BF 84
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 13:43:18.45] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 9794   lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               3958   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1426   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 13:43:18.46] Fechando conexão com o Servidor de Contas
+[2025.06.18 13:43:18.47] Desconectando-se (172.65.172.79:6900)...[2025.06.18 13:43:18.47] desconectado
+[2025.06.18 13:43:18.48] Conectando-se ao Servidor de Personagens...
+[2025.06.18 13:43:18.49] Servidor selecionado: Yggdrasil
+[2025.06.18 13:43:18.50] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 13:43:18.52] conectado
+[2025.06.18 13:43:18.60] Personagens recebidos do Servidor de Personagens
+[2025.06.18 13:43:18.61] Esperando pelo pedido do código PIN
+[2025.06.18 13:43:18.62] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 13:43:18.66] Código PIN correto.
+[2025.06.18 13:43:18.67] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, mjolnir_09)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 13:43:18.70] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 13:43:18.71] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: mjolnir_09.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10019
+-----------------------------
+[2025.06.18 13:43:18.72] Fechando conexão com o Servidor de Personagens
+[2025.06.18 13:43:18.72] Desconectando-se (172.65.169.174:4500)...[2025.06.18 13:43:18.73] desconectado
+[2025.06.18 13:43:18.73] Conectando-se ao Servidor de Mapas...
+[2025.06.18 13:43:18.74] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 13:43:18.77] conectado
+[2025.06.18 13:43:18.92] You have successfully expanded the possession limit.
+[2025.06.18 13:43:19.10] Você está no jogo agora.
+[2025.06.18 13:43:19.36] Suas coordenadas: 347, 78
+[2025.06.18 13:43:19.68] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 13:43:19.79] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 13:43:19.14] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 13:43:19.15] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 13:43:19.15] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 13:43:19.16] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 13:43:19.17] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 13:43:19.32] ===================== Informações do Servidor =====================
+[2025.06.18 13:43:19.33] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:43:19.34] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:43:19.35] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 13:43:19.35] =====================================================================
+[2025.06.18 13:43:19.37] Você tem rodex não lidos.
+[2025.06.18 13:43:19.38] Você tem rodex não lidos.
+[2025.06.18 13:43:19.41] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 13:43:19.42] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 13:43:19.43] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 13:43:19.43] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 13:43:19.44] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 13:43:19.45] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 13:43:19.46] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 13:43:19.47] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 13:43:19.47] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 13:43:19.48] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 13:43:19.49] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 13:43:19.50] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 13:43:19.51] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 13:43:19.51] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 13:43:19.52] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 13:43:19.53] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 13:43:19.54] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 13:43:19.54] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 13:43:33.60] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 49 segundos...
+[2025.06.18 13:44:22.61] Conectando-se ao Servidor de Contas...
+[2025.06.18 13:44:22.63] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 13:44:22.64] conectado
+[2025.06.18 13:44:22.71] Desconectando-se (172.65.172.79:6951)...[2025.06.18 13:44:22.71] desconectado
+[2025.06.18 13:44:22.72] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 13:44:22.73] conectado
+[2025.06.18 13:44:22.77] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 517207406  6E F5 D3 1E
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 13:44:22.78] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 9836   lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               3969   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1442   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 13:44:22.79] Fechando conexão com o Servidor de Contas
+[2025.06.18 13:44:22.79] Desconectando-se (172.65.172.79:6900)...[2025.06.18 13:44:22.80] desconectado
+[2025.06.18 13:44:22.81] Conectando-se ao Servidor de Personagens...
+[2025.06.18 13:44:22.82] Servidor selecionado: Yggdrasil
+[2025.06.18 13:44:22.82] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 13:44:22.83] conectado
+[2025.06.18 13:44:22.89] Personagens recebidos do Servidor de Personagens
+[2025.06.18 13:44:22.90] Esperando pelo pedido do código PIN
+[2025.06.18 13:44:22.92] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 13:44:22.97] Código PIN correto.
+[2025.06.18 13:44:22.98] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, mjolnir_09)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 13:44:23.21] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 13:44:23.30] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: mjolnir_09.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10019
+-----------------------------
+[2025.06.18 13:44:23.38] Fechando conexão com o Servidor de Personagens
+[2025.06.18 13:44:23.46] Desconectando-se (172.65.169.174:4500)...[2025.06.18 13:44:23.49] desconectado
+[2025.06.18 13:44:23.67] Conectando-se ao Servidor de Mapas...
+[2025.06.18 13:44:23.79] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 13:44:23.98] conectado
+[2025.06.18 13:44:23.26] You have successfully expanded the possession limit.
+[2025.06.18 13:44:23.33] Você está no jogo agora.
+[2025.06.18 13:44:23.37] Suas coordenadas: 363, 136
+[2025.06.18 13:44:23.39] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 13:44:23.40] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 13:44:23.47] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 13:44:23.48] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 13:44:23.49] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 13:44:23.50] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 13:44:23.51] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 13:44:23.68] ===================== Informações do Servidor =====================
+[2025.06.18 13:44:23.69] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:44:23.70] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:44:23.71] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 13:44:23.71] =====================================================================
+[2025.06.18 13:44:23.73] Você tem rodex não lidos.
+[2025.06.18 13:44:23.74] Você tem rodex não lidos.
+[2025.06.18 13:44:23.75] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 13:44:23.76] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 13:44:23.77] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 13:44:23.77] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 13:44:23.78] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 13:44:23.79] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 13:44:23.80] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 13:44:23.81] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 13:44:23.81] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 13:44:23.82] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 13:44:23.83] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 13:44:23.84] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 13:44:23.85] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 13:44:23.85] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 13:44:23.86] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 13:44:23.87] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 13:44:23.88] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 13:44:23.89] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 13:44:25.55] [dist=24.2] Monstro Savage Babe (0): *Sweat*
+[2025.06.18 13:44:36.85] [Pintoreta] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Jiboia].
+[2025.06.18 13:44:37.90] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 32 segundos...
+[2025.06.18 13:45:09.92] Conectando-se ao Servidor de Contas...
+[2025.06.18 13:45:09.94] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 13:45:09.96] conectado
+[2025.06.18 13:45:10.23] Desconectando-se (172.65.172.79:6951)...[2025.06.18 13:45:10.27] desconectado
+[2025.06.18 13:45:10.35] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 13:45:10.42] conectado
+[2025.06.18 13:45:10.85] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 1721376855 57 20 9A 66
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 13:45:10.95] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 9848   lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               3977   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1444   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 13:45:10.10] Fechando conexão com o Servidor de Contas
+[2025.06.18 13:45:10.12] Desconectando-se (172.65.172.79:6900)...[2025.06.18 13:45:10.12] desconectado
+[2025.06.18 13:45:10.16] Conectando-se ao Servidor de Personagens...
+[2025.06.18 13:45:10.17] Servidor selecionado: Yggdrasil
+[2025.06.18 13:45:10.17] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 13:45:10.18] conectado
+[2025.06.18 13:45:10.26] Personagens recebidos do Servidor de Personagens
+[2025.06.18 13:45:10.27] Esperando pelo pedido do código PIN
+[2025.06.18 13:45:10.28] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 13:45:10.32] Código PIN correto.
+[2025.06.18 13:45:10.33] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, mjolnir_09)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 13:45:10.35] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 13:45:10.35] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: mjolnir_09.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10019
+-----------------------------
+[2025.06.18 13:45:10.36] Fechando conexão com o Servidor de Personagens
+[2025.06.18 13:45:10.37] Desconectando-se (172.65.169.174:4500)...[2025.06.18 13:45:10.37] desconectado
+[2025.06.18 13:45:10.39] Conectando-se ao Servidor de Mapas...
+[2025.06.18 13:45:10.41] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 13:45:10.42] conectado
+[2025.06.18 13:45:10.61] You have successfully expanded the possession limit.
+[2025.06.18 13:45:10.68] Você está no jogo agora.
+[2025.06.18 13:45:10.70] Suas coordenadas: 356, 202
+[2025.06.18 13:45:10.73] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 13:45:10.74] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 13:45:10.83] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 13:45:10.84] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 13:45:10.85] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 13:45:10.86] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 13:45:10.86] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 13:45:11.25] ===================== Informações do Servidor =====================
+[2025.06.18 13:45:11.33] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:45:11.40] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 13:45:11.53] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 13:45:11.60] =====================================================================
+[2025.06.18 13:45:11.75] Você tem rodex não lidos.
+[2025.06.18 13:45:11.85] Você tem rodex não lidos.
+[2025.06.18 13:45:11.12] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 13:45:11.12] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 13:45:11.13] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 13:45:11.14] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 13:45:11.15] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 13:45:11.16] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 13:45:11.16] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 13:45:11.17] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 13:45:11.18] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 13:45:11.19] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 13:45:11.20] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 13:45:11.21] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 13:45:11.21] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 13:45:11.22] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 13:45:11.23] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 13:45:11.24] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 13:45:11.24] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 13:45:11.25] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 13:45:21.68] Existe um NPC: #mj09_find_5 (369, 279) (ID 4722) - (0)
+[2025.06.18 13:45:25.28] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 42 segundos...
+[2025.06.18 13:45:44.24] Saindo...
+[2025.06.18 13:45:44.27] Plugin breakTime descarregado.
+[2025.06.18 13:45:44.28] [eventMacro] Plugin unloading
+[2025.06.18 13:45:44.29] Plugin eventMacro descarregado.
+[2025.06.18 13:45:44.29] Plugin item_weight_recorder descarregado.
+[2025.06.18 13:45:44.30] macro plugin unloading, [2025.06.18 13:45:44.30] cleaning up
+[2025.06.18 13:45:44.31] Plugin macro descarregado.
+[2025.06.18 13:45:44.31] map unloaded.
+[2025.06.18 13:45:44.32] Plugin map descarregado.
+[2025.06.18 13:45:44.32] Plugin profiles descarregado.
+[2025.06.18 13:45:44.33] [raiseSkill] Plugin descarregando ou recarregando
+[2025.06.18 13:45:44.33] Plugin raiseSkill descarregado.
+[2025.06.18 13:45:44.34] [raiseStat] Plugin descarregando ou recarregando
+[2025.06.18 13:45:44.34] Plugin raiseStat descarregado.
+[2025.06.18 13:45:44.35] Plugin reconnect descarregado.
+[2025.06.18 13:45:44.35] xConf plugin reloading or unloading
+[2025.06.18 13:45:44.36] Plugin xConf descarregado.
+[2025.06.18 13:45:44.36] *** xRAYS-CORE 1 ( version ctime:2025_06_18 ) - Custom Ragnarok Online client ***
+***   https://www.xrayscheat.com/   ***
+[2025.06.18 14:54:28.43] [eventMacro] registering sub 'check_rodex_id'.
+[2025.06.18 14:54:28.44] [eventMacro] registering sub 'count_rodex'.
+[2025.06.18 14:54:28.48] control\eventMacros.txt: ignoring line 'useSelf_item Asa de Borboleta de Iniciante {' in line 1 (munch, munch, strange block)
+[2025.06.18 14:54:28.54] [eventMacro] Ignoring automacro 'MoveToNextQuest' (priority parameter should be a number)
+[2025.06.18 14:54:28.55] [macro] hooking to AI_pre
+[2025.06.18 14:54:28.56] 
+Gerando Senha de Administrador...
+[2025.06.18 14:54:28.61] Checando novos portais... [2025.06.18 14:54:28.71] nenhum encontrado
+
+[2025.06.18 14:54:28.74] 
+[2025.06.18 14:54:28.75] Conectando-se ao Servidor de Contas...
+[2025.06.18 14:54:29.80] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 14:54:29.83] conectado
+[2025.06.18 14:54:29.90] Desconectando-se (172.65.172.79:6951)...[2025.06.18 14:54:29.91] desconectado
+[2025.06.18 14:54:29.92] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 14:54:29.93] conectado
+[2025.06.18 14:54:29.98] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 3650138517 95 B1 90 D9
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 14:54:29.98] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 10746  lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               4425   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1604   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 14:54:29.99] Fechando conexão com o Servidor de Contas
+[2025.06.18 14:54:30.16] Desconectando-se (172.65.172.79:6900)...[2025.06.18 14:54:30.41] desconectado
+[2025.06.18 14:54:30.12] Conectando-se ao Servidor de Personagens...
+[2025.06.18 14:54:30.17] Servidor selecionado: Yggdrasil
+[2025.06.18 14:54:30.22] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 14:54:30.40] conectado
+[2025.06.18 14:54:30.13] Personagens recebidos do Servidor de Personagens
+[2025.06.18 14:54:30.14] Esperando pelo pedido do código PIN
+[2025.06.18 14:54:30.15] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 14:54:30.18] Código PIN correto.
+[2025.06.18 14:54:30.20] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, mjolnir_09)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 14:54:30.23] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 14:54:30.23] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: mjolnir_09.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10019
+-----------------------------
+[2025.06.18 14:54:30.24] Fechando conexão com o Servidor de Personagens
+[2025.06.18 14:54:30.25] Desconectando-se (172.65.169.174:4500)...[2025.06.18 14:54:30.25] desconectado
+[2025.06.18 14:54:30.26] Conectando-se ao Servidor de Mapas...
+[2025.06.18 14:54:30.27] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 14:54:30.29] conectado
+[2025.06.18 14:54:30.47] You have successfully expanded the possession limit.
+[2025.06.18 14:54:30.52] Você está no jogo agora.
+[2025.06.18 14:54:30.55] Suas coordenadas: 365, 265
+[2025.06.18 14:54:30.56] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 14:54:30.58] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 14:54:30.79] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 14:54:30.79] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 14:54:30.80] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 14:54:30.80] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 14:54:30.81] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 14:54:30.90] ===================== Informações do Servidor =====================
+[2025.06.18 14:54:30.91] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 14:54:30.91] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 14:54:30.92] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 14:54:30.93] =====================================================================
+[2025.06.18 14:54:30.93] Você tem rodex não lidos.
+[2025.06.18 14:54:30.94] Você tem rodex não lidos.
+[2025.06.18 14:54:30.95] Existe um NPC: #mj09_find_5 (369, 279) (ID 4722) - (0)
+[2025.06.18 14:54:30.98] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 14:54:30.99] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 14:54:30.99] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 14:54:31.56] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 14:54:31.11] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 14:54:31.22] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 14:54:31.30] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 14:54:31.37] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 14:54:31.46] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 14:54:31.54] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 14:54:31.60] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 14:54:31.66] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 14:54:31.72] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 14:54:31.79] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 14:54:31.84] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 14:54:31.89] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 14:54:31.10] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 14:54:31.10] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 14:54:31.56] [eventMacro] Conditions met for automacro 'SetGrindingSpot', calling macro 'ChangeGrindMaps '
+[2025.06.18 14:54:31.57] [raiseSkill] A habilidade 'Perícia com Espada' não existe na árvore de habilidades; desativando skillsAddAuto
+[2025.06.18 14:54:31.62] [eventmacro message] SetGrindingSpot: You have reached max level congratulations!
+[2025.06.18 14:54:32.66] Calculating lockMap route to: Monte Mjolnir (11)(mjolnir_11)
+[2025.06.18 14:54:32.71] [eventMacro] Conditions met for automacro 'RodexCards', calling macro 'MailCards '
+[2025.06.18 14:54:32.77] [eventmacro message] No cards available
+[2025.06.18 14:54:32.93] [dist=11.4] Monstro Savage Babe (1): *Sweat*
+[2025.06.18 14:54:34.85] [eventMacro] Conditions met for automacro 'RodexEquips', calling macro 'MailEquips '
+[2025.06.18 14:54:34.95] Sending request to open rodex normal mailbox.
+[2025.06.18 14:54:35.40] -------------------------------------------------- Rodex Mail Page 0 --------------------------------------------------
+ #  ID       From                    Att  New  Expire    Title
+ 0  328890   Gerenciamento           gift Sim   14 Days  6º dia de Logue e Ganhe
+ 1  325456   Gerenciamento           -    Sim   14 Days  5º dia de Logue e Ganhe
+ 2  306455   Gerenciamento           -    Sim   13 Days  4º dia de Logue e Ganhe
+ 3  290581   Gerenciamento           -    Sim   11 Days  3º dia de Logue e Ganhe
+ 4  272031   Gerenciamento           -    Sim   10 Days  2º dia de Logue e Ganhe
+ 5  271255    oDURCg                 -    Sim   10 Days   oTURCg  
+ 6  260307   Gerenciamento           -    Sim    9 Days  1º dia de Logue e Ganhe
+ 7  2721856  RO GM                   -    Sim    8 Days   Qyg  
+ 8  2721853  RO GM                   -    Sim    8 Days   Gig  
+ 9  2721852  RO GM                   -    Sim    8 Days   GSg  
+10  2721851  RO GM                   -    Sim    8 Days   GCg  
+11  2721850  RO GM                   -    Sim    8 Days   Fyg  
+-----------------------------------------------------------------------------------------------------------------------
+[2025.06.18 14:54:36.97] Abrindo a caixa de escrita do rodex. Caixa: Matonha
+[2025.06.18 14:54:37.31] --------------------- Rodex Mail Target ----------------------
+   Name: Matonha                  Base Level: 140
+Char ID: 105895                   Class: Ranger
+--------------------------------------------------------------
+[2025.06.18 14:54:38.99] Você já definiu o destinatário.
+[2025.06.18 14:54:39.44] [dist=desconhecido] Desconhecido #1333: *Sweat*
+[2025.06.18 14:54:41.84] Título do rodex alterado para 'TITLE'.
+[2025.06.18 14:54:43.34] Corpo do rodex definido como 'TITLE'.
+[2025.06.18 14:54:45.48] Zeny do rodex definido como '0'.
+[2025.06.18 14:54:46.21] [dist=10] Monstro Savage Babe (0): *Sweat*
+[2025.06.18 14:54:47.45] Enviando rodex.
+[2025.06.18 14:54:47.70] Seu rodex foi enviado com sucesso.
+[2025.06.18 14:54:49.47] Seu rodex já foi fechado.
+[2025.06.18 14:54:51.27] [dist=12.5] Monstro Savage Babe (1): *Sweat*
+[2025.06.18 14:54:52.81] Existe um portal: mjolnir_09 -> prt_fild01 (373, 288) - (0)
+[2025.06.18 14:54:54.84] ---------Map  Info----------
+MAP Name: prt_fild01.gat
+MAP IP: lt-world-3-02.gnjoy
+MAP Port: 10020
+-------------------------------
+[2025.06.18 14:54:54.86] Fechando conexão com o Servidor de Mapa
+[2025.06.18 14:54:54.87] Desconectando-se (172.65.169.174:10019)...[2025.06.18 14:54:54.88] desconectado
+[2025.06.18 14:54:54.89] Conectando-se ao Servidor de Mapas...
+[2025.06.18 14:54:54.90] Conectando-se (lt-world-3-02.gnjoylatam.com:10020)... [2025.06.18 14:54:54.91] conectado
+[2025.06.18 14:54:55.12] You have successfully expanded the possession limit.
+[2025.06.18 14:54:55.18] Você está no jogo agora.
+[2025.06.18 14:54:55.20] Suas coordenadas: 23, 292
+[2025.06.18 14:54:55.23] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 14:54:55.24] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 14:54:55.32] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 14:54:55.33] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 14:54:55.34] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 14:54:55.35] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 14:54:55.35] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 14:54:55.55] Existe um portal: prt_fild01 -> mjolnir_09 (20, 292) - (0)
+[2025.06.18 14:55:15.95] [EduardoNetto] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Eddga].
+[2025.06.18 14:55:27.15] [dist=desconhecido] Desconhecido #261: *Sweat*
+[2025.06.18 14:55:31.76] Existe um portal: prt_fild01 -> mjolnir_10 (261, 373) - (0)
+[2025.06.18 14:55:33.51] ---------Map  Info----------
+MAP Name: mjolnir_10.gat
+MAP IP: lt-world-3-02.gnjoy
+MAP Port: 10019
+-------------------------------
+[2025.06.18 14:55:33.52] Fechando conexão com o Servidor de Mapa
+[2025.06.18 14:55:33.52] Desconectando-se (172.65.169.174:10020)...[2025.06.18 14:55:33.53] desconectado
+[2025.06.18 14:55:33.54] Conectando-se ao Servidor de Mapas...
+[2025.06.18 14:55:33.55] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 14:55:33.55] conectado
+[2025.06.18 14:55:33.74] You have successfully expanded the possession limit.
+[2025.06.18 14:55:33.78] Você está no jogo agora.
+[2025.06.18 14:55:33.80] Suas coordenadas: 265, 16
+[2025.06.18 14:55:33.84] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 14:55:33.85] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 14:55:33.91] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 14:55:33.93] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 14:55:33.93] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 14:55:33.94] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 14:55:33.95] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 14:55:34.14] Existe um NPC: #mj10_find_3 (272, 20) (ID 4727) - (0)
+[2025.06.18 14:55:34.15] Existe um portal: mjolnir_10 -> prt_fild01 (265, 13) - (0)
+[2025.06.18 14:55:44.59] Item Apareceu: Teia de Aranha (0) x 1 (284, 67)
+[2025.06.18 14:55:52.17] [ 73/100] Monstro Argos (1) atacou você (Dano: Errou!) (Atraso: 468ms)
+[2025.06.18 14:55:52.55] Você está agora atacando Monstro Argos (1)
+[2025.06.18 14:55:53.49] [ 73/100] Você atacou Monstro Argos (1) (Dano: 332 + 69) (Atraso: 260ms)
+[2025.06.18 14:55:53.61] [ 73/100] Monstro Argos (1) atacou você (Dano: Errou!) (Atraso: 468ms)
+[2025.06.18 14:55:54.23] [ 73/100] Você atacou Monstro Argos (1) (Dano: 326 + 68) (Atraso: 260ms)
+[2025.06.18 14:55:54.55] [ 73/100] Você atacou Monstro Argos (1) (Dano: 303 + 63) (Atraso: 260ms)
+[2025.06.18 14:55:54.96] [ 73/100] Monstro Argos (2) atacou você (Dano: Errou!) (Atraso: 468ms)
+[2025.06.18 14:55:55.11] [ 73/100] Monstro Argos (1) usou Poisonattack em você (Dano: Errou) (Atraso: 468ms)
+[2025.06.18 14:55:55.11] [ 73/100] Você atacou Monstro Argos (1) (Dano: 326 + 68) (Atraso: 260ms)
+[2025.06.18 14:55:55.41] Você obteve 58/34 (0.01%/0.01%) de Experiência
+[2025.06.18 14:55:55.42] Item Apareceu: Teia de Aranha (0) x 1 (339, 104)
+[2025.06.18 14:55:55.44] Target Monstro Argos (1) died
+[2025.06.18 14:55:55.82] Item adicionado ao inventário: Teia de Aranha (17) x 1 - Evento
+[2025.06.18 14:55:56.43] [ 73/100] Monstro Argos (2) atacou você (Dano: Errou!) (Atraso: 468ms)
+[2025.06.18 14:55:56.77] Você está agora atacando Monstro Argos (2)
+[2025.06.18 14:55:56.83] [ 73/100] Você atacou Monstro Argos (2) (Dano: 313 + 65) (Atraso: 260ms)
+[2025.06.18 14:55:57.38] [ 73/100] Você atacou Monstro Argos (2) (Dano: 467! + 98) (Atraso: 260ms)
+[2025.06.18 14:55:57.88] [ 73/100] Você atacou Monstro Argos (2) (Dano: 467! + 98) (Atraso: 260ms)
+[2025.06.18 14:55:57.89] [ 73/100] Monstro Argos (2) atacou você (Dano: Errou!) (Atraso: 468ms)
+[2025.06.18 14:55:58.17] Você obteve 58/34 (0.01%/0.01%) de Experiência
+[2025.06.18 14:55:58.18] Item Apareceu: Teia de Aranha (0) x 1 (337, 103)
+[2025.06.18 14:55:58.20] Target Monstro Argos (2) died
+[2025.06.18 14:55:58.59] Item adicionado ao inventário: Teia de Aranha (17) x 1 - Evento
+[2025.06.18 14:56:14.70] [Low Budget] abriu [Desconhecido #104830] e recebeu o item [Desconhecido #19265].
+[2025.06.18 14:56:18.29] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 43 segundos...
+[2025.06.18 14:57:01.30] Conectando-se ao Servidor de Contas...
+[2025.06.18 14:57:01.32] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 14:57:01.32] conectado
+[2025.06.18 14:57:01.39] Desconectando-se (172.65.172.79:6951)...[2025.06.18 14:57:01.40] desconectado
+[2025.06.18 14:57:01.40] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 14:57:01.41] conectado
+[2025.06.18 14:57:01.45] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 3743217176 18 F6 1C DF
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 14:57:01.46] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 10796  lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               4432   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1618   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 14:57:01.47] Fechando conexão com o Servidor de Contas
+[2025.06.18 14:57:01.48] Desconectando-se (172.65.172.79:6900)...[2025.06.18 14:57:01.48] desconectado
+[2025.06.18 14:57:01.50] Conectando-se ao Servidor de Personagens...
+[2025.06.18 14:57:01.51] Servidor selecionado: Yggdrasil
+[2025.06.18 14:57:01.51] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 14:57:01.52] conectado
+[2025.06.18 14:57:01.59] Personagens recebidos do Servidor de Personagens
+[2025.06.18 14:57:01.60] Esperando pelo pedido do código PIN
+[2025.06.18 14:57:01.61] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 14:57:01.64] Código PIN correto.
+[2025.06.18 14:57:01.66] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, mjolnir_10)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 14:57:01.69] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 14:57:01.70] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: mjolnir_10.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10019
+-----------------------------
+[2025.06.18 14:57:01.70] Fechando conexão com o Servidor de Personagens
+[2025.06.18 14:57:01.71] Desconectando-se (172.65.169.174:4500)...[2025.06.18 14:57:01.72] desconectado
+[2025.06.18 14:57:01.74] Conectando-se ao Servidor de Mapas...
+[2025.06.18 14:57:01.75] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 14:57:01.75] conectado
+[2025.06.18 14:57:01.96] You have successfully expanded the possession limit.
+[2025.06.18 14:57:02.27] Você está no jogo agora.
+[2025.06.18 14:57:02.46] Suas coordenadas: 356, 195
+[2025.06.18 14:57:02.73] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 14:57:02.82] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 14:57:02.16] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 14:57:02.17] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 14:57:02.18] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 14:57:02.19] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 14:57:02.19] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 14:57:02.36] ===================== Informações do Servidor =====================
+[2025.06.18 14:57:02.36] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 14:57:02.37] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 14:57:02.38] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 14:57:02.39] =====================================================================
+[2025.06.18 14:57:02.41] Você tem rodex não lidos.
+[2025.06.18 14:57:02.42] Você tem rodex não lidos.
+[2025.06.18 14:57:02.44] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 14:57:02.45] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 14:57:02.46] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 14:57:02.46] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 14:57:02.47] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 14:57:02.48] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 14:57:02.49] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 14:57:02.50] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 14:57:02.50] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 14:57:02.52] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 14:57:02.53] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 14:57:02.53] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 14:57:02.54] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 14:57:02.55] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 14:57:02.56] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 14:57:02.56] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 14:57:02.57] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 14:57:02.58] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 14:57:04.23] Existe um NPC: #mj10_find_2 (374, 215) (ID 4726) - (0)
+[2025.06.18 14:57:06.40] Existe um portal: mjolnir_10 -> mjolnir_11 (384, 220) - (0)
+[2025.06.18 14:57:08.45] Mudança de Mapa: mjolnir_11.gat (23, 220)
+[2025.06.18 14:57:08.74] Existe um NPC: #mj11_find_1 (29, 220) (ID 4732) - (0)
+[2025.06.18 14:57:08.76] Existe um portal: mjolnir_11 -> mjolnir_10 (20, 220) - (0)
+[2025.06.18 14:57:09.48] Calculando rota aleatória para: Monte Mjolnir (11) (mjolnir_11): 319, 245
+[2025.06.18 14:57:09.64] [ 74/100] Monstro Argiope (1) atacou você (Dano: Errou!!) (Atraso: 792ms)
+[2025.06.18 14:57:09.98] Você está agora atacando Monstro Argiope (1)
+[2025.06.18 14:57:10.50] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 268 + 56) (Atraso: 260ms)
+[2025.06.18 14:57:10.56] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 266 + 55) (Atraso: 260ms)
+[2025.06.18 14:57:11.10] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 286 + 60) (Atraso: 260ms)
+[2025.06.18 14:57:11.44] [ 74/100] Monstro Argiope (1) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:57:11.63] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 273 + 57) (Atraso: 260ms)
+[2025.06.18 14:57:12.16] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 263 + 55) (Atraso: 260ms)
+[2025.06.18 14:57:12.70] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 284 + 59) (Atraso: 260ms)
+[2025.06.18 14:57:13.24] [ 74/100] Monstro Argiope (1) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:57:15.61] Monstro Argiope (1) está conjurando Poison em localização (26, 220) (Atraso: 800ms)
+[2025.06.18 14:57:15.85] [ 74/100] Monstro Argiope (1) usou Poison em você (Dano: Errou) (Atraso: 792ms)
+[2025.06.18 14:57:16.67] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 41 segundos...
+[2025.06.18 14:57:57.69] Conectando-se ao Servidor de Contas...
+[2025.06.18 14:57:57.71] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 14:57:57.72] conectado
+[2025.06.18 14:57:57.78] Desconectando-se (172.65.172.79:6951)...[2025.06.18 14:57:57.78] desconectado
+[2025.06.18 14:57:57.79] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 14:57:57.80] conectado
+[2025.06.18 14:57:57.84] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 909919748  04 46 3C 36
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 14:57:57.84] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 10835  lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               4445   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1609   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 14:57:57.85] Fechando conexão com o Servidor de Contas
+[2025.06.18 14:57:57.86] Desconectando-se (172.65.172.79:6900)...[2025.06.18 14:57:57.86] desconectado
+[2025.06.18 14:57:57.88] Conectando-se ao Servidor de Personagens...
+[2025.06.18 14:57:57.89] Servidor selecionado: Yggdrasil
+[2025.06.18 14:57:57.89] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 14:57:57.90] conectado
+[2025.06.18 14:57:57.98] Personagens recebidos do Servidor de Personagens
+[2025.06.18 14:57:57.99] Esperando pelo pedido do código PIN
+[2025.06.18 14:57:58.14] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 14:57:58.43] Código PIN correto.
+[2025.06.18 14:57:58.60] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, mjolnir_11)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 14:57:58.77] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 14:57:58.84] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: mjolnir_11.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10019
+-----------------------------
+[2025.06.18 14:57:58.91] Fechando conexão com o Servidor de Personagens
+[2025.06.18 14:57:58.98] Desconectando-se (172.65.169.174:4500)...[2025.06.18 14:57:58.10] desconectado
+[2025.06.18 14:57:58.12] Conectando-se ao Servidor de Mapas...
+[2025.06.18 14:57:58.13] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 14:57:58.14] conectado
+[2025.06.18 14:57:58.29] You have successfully expanded the possession limit.
+[2025.06.18 14:57:58.35] Você está no jogo agora.
+[2025.06.18 14:57:58.37] Suas coordenadas: 26, 220
+[2025.06.18 14:57:58.40] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 14:57:58.41] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 14:57:58.51] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 14:57:58.51] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 14:57:58.52] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 14:57:58.53] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 14:57:58.53] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 14:57:58.72] ===================== Informações do Servidor =====================
+[2025.06.18 14:57:58.73] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 14:57:58.75] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 14:57:58.75] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 14:57:58.76] =====================================================================
+[2025.06.18 14:57:58.77] Você tem rodex não lidos.
+[2025.06.18 14:57:58.78] Você tem rodex não lidos.
+[2025.06.18 14:57:58.80] Existe um NPC: #mj11_find_1 (29, 220) (ID 4732) - (0)
+[2025.06.18 14:57:58.82] Existe um portal: mjolnir_11 -> mjolnir_10 (20, 220) - (0)
+[2025.06.18 14:57:58.83] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 14:57:58.84] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 14:57:58.85] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 14:57:58.85] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 14:57:58.86] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 14:57:58.88] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 14:57:58.89] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 14:57:58.90] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 14:57:58.91] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 14:57:58.93] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 14:57:58.93] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 14:57:58.94] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 14:57:58.95] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 14:57:58.96] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 14:57:58.97] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 14:57:58.98] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 14:57:58.98] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 14:57:58.99] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 14:57:59.38] Você está agora atacando Monstro Argiope (0)
+[2025.06.18 14:57:59.46] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 290 + 60) (Atraso: 260ms)
+[2025.06.18 14:57:59.53] [ 74/100] Monstro Argiope (0) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:57:59.99] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 263 + 55) (Atraso: 260ms)
+[2025.06.18 14:58:00.53] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 288 + 60) (Atraso: 260ms)
+[2025.06.18 14:58:01.80] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 286 + 60) (Atraso: 260ms)
+[2025.06.18 14:58:01.33] [ 74/100] Monstro Argiope (0) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:58:01.61] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 410! + 86) (Atraso: 260ms)
+[2025.06.18 14:58:01.90] Você obteve 1078/685 (0.12%/0.20%) de Experiência
+[2025.06.18 14:58:01.91] Item Apareceu: Pata de Inseto (0) x 1 (27, 221)
+[2025.06.18 14:58:01.92] Target Monstro Argiope (0) died
+[2025.06.18 14:58:02.30] Item adicionado ao inventário: Pata de Inseto (18) x 1 - Evento
+[2025.06.18 14:58:03.61] [dist=desconhecido] Desconhecido #3793: *Grumble*
+[2025.06.18 14:58:03.79] Você está agora atacando Monstro Argiope (0)
+[2025.06.18 14:58:05.83] [ 74/100] Monstro Argiope (0) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:58:05.88] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 288 + 60) (Atraso: 260ms)
+[2025.06.18 14:58:06.40] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 278 + 58) (Atraso: 260ms)
+[2025.06.18 14:58:06.96] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 283 + 59) (Atraso: 260ms)
+[2025.06.18 14:58:07.49] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 278 + 58) (Atraso: 260ms)
+[2025.06.18 14:58:07.64] [ 74/100] Monstro Argiope (0) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:58:07.78] [ 74/100] Monstro Argiope (1) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:58:08.28] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 277 + 58) (Atraso: 260ms)
+[2025.06.18 14:58:08.57] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 291 + 61) (Atraso: 260ms)
+[2025.06.18 14:58:09.44] [ 74/100] Monstro Argiope (0) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:58:09.61] [ 74/100] Monstro Argiope (1) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:58:11.26] [ 74/100] Monstro Argiope (0) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:58:11.42] [ 74/100] Monstro Argiope (1) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:58:12.92] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 47 segundos...
+[2025.06.18 14:58:59.95] Conectando-se ao Servidor de Contas...
+[2025.06.18 14:58:59.96] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 14:58:59.97] conectado
+[2025.06.18 14:59:00.31] Desconectando-se (172.65.172.79:6951)...[2025.06.18 14:59:00.35] desconectado
+[2025.06.18 14:59:00.43] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 14:59:00.51] conectado
+[2025.06.18 14:59:00.94] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 3570988076 2C F4 D8 D4
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 14:59:00.10] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 10809  lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               4417   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1605   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 14:59:00.11] Fechando conexão com o Servidor de Contas
+[2025.06.18 14:59:00.12] Desconectando-se (172.65.172.79:6900)...[2025.06.18 14:59:00.12] desconectado
+[2025.06.18 14:59:00.13] Conectando-se ao Servidor de Personagens...
+[2025.06.18 14:59:00.14] Servidor selecionado: Yggdrasil
+[2025.06.18 14:59:00.15] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 14:59:00.16] conectado
+[2025.06.18 14:59:00.24] Personagens recebidos do Servidor de Personagens
+[2025.06.18 14:59:00.25] Esperando pelo pedido do código PIN
+[2025.06.18 14:59:00.27] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 14:59:00.30] Código PIN correto.
+[2025.06.18 14:59:00.32] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, mjolnir_11)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 14:59:00.35] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 14:59:00.36] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: mjolnir_11.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10019
+-----------------------------
+[2025.06.18 14:59:00.38] Fechando conexão com o Servidor de Personagens
+[2025.06.18 14:59:00.39] Desconectando-se (172.65.169.174:4500)...[2025.06.18 14:59:00.40] desconectado
+[2025.06.18 14:59:00.43] Conectando-se ao Servidor de Mapas...
+[2025.06.18 14:59:00.45] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 14:59:00.46] conectado
+[2025.06.18 14:59:00.64] You have successfully expanded the possession limit.
+[2025.06.18 14:59:00.69] Você está no jogo agora.
+[2025.06.18 14:59:00.71] Suas coordenadas: 42, 225
+[2025.06.18 14:59:00.74] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 14:59:00.75] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 14:59:00.84] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 14:59:00.85] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 14:59:00.85] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 14:59:00.86] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 14:59:00.87] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 14:59:01.30] ===================== Informações do Servidor =====================
+[2025.06.18 14:59:01.40] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 14:59:01.47] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 14:59:01.56] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 14:59:01.63] =====================================================================
+[2025.06.18 14:59:01.70] Você tem rodex não lidos.
+[2025.06.18 14:59:01.77] Você tem rodex não lidos.
+[2025.06.18 14:59:01.10] Existe um NPC: #mj11_find_1 (29, 220) (ID 4732) - (0)
+[2025.06.18 14:59:01.11] [dist=5] Monstro Argiope (0): *Grumble*
+[2025.06.18 14:59:01.12] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 14:59:01.13] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 14:59:01.14] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 14:59:01.15] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 14:59:01.15] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 14:59:01.16] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 14:59:01.17] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 14:59:01.18] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 14:59:01.19] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 14:59:01.20] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 14:59:01.20] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 14:59:01.21] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 14:59:01.22] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 14:59:01.23] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 14:59:01.24] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 14:59:01.24] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 14:59:01.25] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 14:59:01.26] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 14:59:01.72] Calculando rota aleatória para: Monte Mjolnir (11) (mjolnir_11): 314, 221
+[2025.06.18 14:59:01.73] Você está agora atacando Monstro Argiope (1)
+[2025.06.18 14:59:01.78] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 291 + 61) (Atraso: 260ms)
+[2025.06.18 14:59:01.81] [ 74/100] Monstro Argiope (1) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:59:02.33] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 272 + 57) (Atraso: 260ms)
+[2025.06.18 14:59:02.87] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 287 + 60) (Atraso: 260ms)
+[2025.06.18 14:59:02.90] [ 74/100] Monstro Argiope (0) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:59:03.40] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 280 + 58) (Atraso: 260ms)
+[2025.06.18 14:59:03.59] [ 74/100] Monstro Argiope (1) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:59:03.94] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 276 + 57) (Atraso: 260ms)
+[2025.06.18 14:59:04.49] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 273 + 57) (Atraso: 260ms)
+[2025.06.18 14:59:04.70] [ 74/100] Monstro Argiope (0) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:59:05.29] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 276 + 57) (Atraso: 260ms)
+[2025.06.18 14:59:05.41] Monstro Argiope (1) está conjurando Poison em localização (42, 225) (Atraso: 800ms)
+[2025.06.18 14:59:05.58] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 268 + 56) (Atraso: 260ms)
+[2025.06.18 14:59:06.10] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 261 + 54) (Atraso: 260ms)
+[2025.06.18 14:59:06.21] [ 74/100] Monstro Argiope (1) usou Poison em você (Dano: Errou) (Atraso: 792ms)
+[2025.06.18 14:59:06.51] [ 74/100] Monstro Argiope (0) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:59:06.65] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 271 + 56) (Atraso: 260ms)
+[2025.06.18 14:59:07.19] [ 74/100] Você atacou Monstro Argiope (1) (Dano: 286 + 60) (Atraso: 260ms)
+[2025.06.18 14:59:07.48] Você obteve 1078/685 (0.12%/0.20%) de Experiência
+[2025.06.18 14:59:07.49] Item Apareceu: Erva Verde (0) x 1 (41, 225)
+[2025.06.18 14:59:07.50] Target Monstro Argiope (1) died
+[2025.06.18 14:59:07.88] Item adicionado ao inventário: Erva Verde (19) x 1 - Consumível Cura
+[2025.06.18 14:59:08.33] [ 74/100] Monstro Argiope (0) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:59:08.86] Você está agora atacando Monstro Argiope (0)
+[2025.06.18 14:59:08.89] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 267 + 56) (Atraso: 260ms)
+[2025.06.18 14:59:09.44] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 268 + 56) (Atraso: 260ms)
+[2025.06.18 14:59:09.97] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 281 + 59) (Atraso: 260ms)
+[2025.06.18 14:59:10.14] [ 74/100] Monstro Argiope (0) atacou você (Dano: Errou!) (Atraso: 792ms)
+[2025.06.18 14:59:10.52] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 281 + 59) (Atraso: 260ms)
+[2025.06.18 14:59:11.56] [ 74/100] Você atacou Monstro Argiope (0) (Dano: 292 + 61) (Atraso: 260ms)
+[2025.06.18 14:59:11.34] Você obteve 1078/685 (0.12%/0.20%) de Experiência
+[2025.06.18 14:59:11.35] Target Monstro Argiope (0) died
+[2025.06.18 14:59:15.26] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 49 segundos...
+[2025.06.18 15:00:04.27] Conectando-se ao Servidor de Contas...
+[2025.06.18 15:00:04.29] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 15:00:04.31] conectado
+[2025.06.18 15:00:04.38] Desconectando-se (172.65.172.79:6951)...[2025.06.18 15:00:04.39] desconectado
+[2025.06.18 15:00:04.40] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 15:00:04.41] conectado
+[2025.06.18 15:00:04.46] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 3511104332 4C 33 47 D1
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 15:00:04.47] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 10868  lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               4427   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1610   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 15:00:04.48] Fechando conexão com o Servidor de Contas
+[2025.06.18 15:00:04.49] Desconectando-se (172.65.172.79:6900)...[2025.06.18 15:00:04.49] desconectado
+[2025.06.18 15:00:04.51] Conectando-se ao Servidor de Personagens...
+[2025.06.18 15:00:04.51] Servidor selecionado: Yggdrasil
+[2025.06.18 15:00:04.52] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 15:00:04.54] conectado
+[2025.06.18 15:00:04.62] Personagens recebidos do Servidor de Personagens
+[2025.06.18 15:00:04.63] Esperando pelo pedido do código PIN
+[2025.06.18 15:00:04.65] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 15:00:04.68] Código PIN correto.
+[2025.06.18 15:00:04.69] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, mjolnir_11)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 15:00:04.72] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 15:00:04.73] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: mjolnir_11.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10019
+-----------------------------
+[2025.06.18 15:00:04.74] Fechando conexão com o Servidor de Personagens
+[2025.06.18 15:00:04.75] Desconectando-se (172.65.169.174:4500)...[2025.06.18 15:00:04.75] desconectado
+[2025.06.18 15:00:04.77] Conectando-se ao Servidor de Mapas...
+[2025.06.18 15:00:04.79] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 15:00:04.80] conectado
+[2025.06.18 15:00:04.99] You have successfully expanded the possession limit.
+[2025.06.18 15:00:05.63] Você está no jogo agora.
+[2025.06.18 15:00:05.95] Suas coordenadas: 42, 225
+[2025.06.18 15:00:05.11] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 15:00:05.12] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 15:00:05.20] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 15:00:05.21] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 15:00:05.22] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 15:00:05.23] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 15:00:05.24] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 15:00:05.41] ===================== Informações do Servidor =====================
+[2025.06.18 15:00:05.42] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 15:00:05.43] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 15:00:05.44] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 15:00:05.44] =====================================================================
+[2025.06.18 15:00:05.46] Existe um NPC: #mj11_find_1 (29, 220) (ID 4732) - (0)
+[2025.06.18 15:00:05.47] Você tem rodex não lidos.
+[2025.06.18 15:00:05.48] Você tem rodex não lidos.
+[2025.06.18 15:00:05.51] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 15:00:05.52] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 15:00:05.53] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 15:00:05.53] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 15:00:05.54] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 15:00:05.55] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 15:00:05.56] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 15:00:05.57] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 15:00:05.58] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 15:00:05.59] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 15:00:05.59] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 15:00:05.60] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 15:00:05.61] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 15:00:05.61] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 15:00:05.62] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 15:00:05.63] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 15:00:05.64] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 15:00:05.65] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 15:00:19.66] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 48 segundos...
+[2025.06.18 15:01:07.68] Conectando-se ao Servidor de Contas...
+[2025.06.18 15:01:07.70] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 15:01:07.73] conectado
+[2025.06.18 15:01:07.79] Desconectando-se (172.65.172.79:6951)...[2025.06.18 15:01:07.80] desconectado
+[2025.06.18 15:01:07.81] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 15:01:07.84] conectado
+[2025.06.18 15:01:07.87] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 9052035    83 1F 8A 00
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 15:01:07.89] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 10862  lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               4412   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1597   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 15:01:07.90] Fechando conexão com o Servidor de Contas
+[2025.06.18 15:01:07.91] Desconectando-se (172.65.172.79:6900)...[2025.06.18 15:01:07.91] desconectado
+[2025.06.18 15:01:07.92] Conectando-se ao Servidor de Personagens...
+[2025.06.18 15:01:07.93] Servidor selecionado: Yggdrasil
+[2025.06.18 15:01:07.94] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 15:01:07.95] conectado
+[2025.06.18 15:01:08.22] Personagens recebidos do Servidor de Personagens
+[2025.06.18 15:01:08.36] Esperando pelo pedido do código PIN
+[2025.06.18 15:01:08.49] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 15:01:08.78] Código PIN correto.
+[2025.06.18 15:01:08.95] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, mjolnir_11)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 15:01:08.12] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 15:01:08.13] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: mjolnir_11.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10019
+-----------------------------
+[2025.06.18 15:01:08.14] Fechando conexão com o Servidor de Personagens
+[2025.06.18 15:01:08.15] Desconectando-se (172.65.169.174:4500)...[2025.06.18 15:01:08.15] desconectado
+[2025.06.18 15:01:08.17] Conectando-se ao Servidor de Mapas...
+[2025.06.18 15:01:08.18] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 15:01:08.19] conectado
+[2025.06.18 15:01:08.34] You have successfully expanded the possession limit.
+[2025.06.18 15:01:08.41] Você está no jogo agora.
+[2025.06.18 15:01:08.43] Suas coordenadas: 82, 274
+[2025.06.18 15:01:08.45] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 15:01:08.46] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 15:01:08.54] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 15:01:08.55] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 15:01:08.56] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 15:01:08.57] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 15:01:08.58] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 15:01:08.75] ===================== Informações do Servidor =====================
+[2025.06.18 15:01:08.76] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 15:01:08.77] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 15:01:08.77] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 15:01:08.78] =====================================================================
+[2025.06.18 15:01:08.79] Você tem rodex não lidos.
+[2025.06.18 15:01:08.80] Você tem rodex não lidos.
+[2025.06.18 15:01:08.82] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 15:01:08.83] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 15:01:08.85] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 15:01:08.86] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 15:01:08.86] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 15:01:08.87] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 15:01:08.88] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 15:01:08.89] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 15:01:08.89] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 15:01:08.90] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 15:01:08.91] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 15:01:08.92] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 15:01:08.92] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 15:01:08.93] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 15:01:08.94] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 15:01:08.94] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 15:01:08.96] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 15:01:08.97] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 15:01:09.45] Calculando rota aleatória para: Monte Mjolnir (11) (mjolnir_11): 137, 149
+[2025.06.18 15:01:23.89] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 49 segundos...
+[2025.06.18 15:02:12.11] Conectando-se ao Servidor de Contas...
+[2025.06.18 15:02:12.12] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 15:02:12.13] conectado
+[2025.06.18 15:02:12.20] Desconectando-se (172.65.172.79:6951)...[2025.06.18 15:02:12.21] desconectado
+[2025.06.18 15:02:12.21] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 15:02:12.23] conectado
+[2025.06.18 15:02:12.27] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 3058729255 27 81 50 B6
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 15:02:12.28] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 10839  lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               4424   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1614   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 15:02:12.30] Fechando conexão com o Servidor de Contas
+[2025.06.18 15:02:12.30] Desconectando-se (172.65.172.79:6900)...[2025.06.18 15:02:12.31] desconectado
+[2025.06.18 15:02:12.33] Conectando-se ao Servidor de Personagens...
+[2025.06.18 15:02:12.33] Servidor selecionado: Yggdrasil
+[2025.06.18 15:02:12.34] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 15:02:12.35] conectado
+[2025.06.18 15:02:12.41] Personagens recebidos do Servidor de Personagens
+[2025.06.18 15:02:12.41] Esperando pelo pedido do código PIN
+[2025.06.18 15:02:12.42] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 15:02:12.45] Código PIN correto.
+[2025.06.18 15:02:12.47] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, mjolnir_11)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 15:02:12.48] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 15:02:12.49] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: mjolnir_11.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10019
+-----------------------------
+[2025.06.18 15:02:12.50] Fechando conexão com o Servidor de Personagens
+[2025.06.18 15:02:12.51] Desconectando-se (172.65.169.174:4500)...[2025.06.18 15:02:12.51] desconectado
+[2025.06.18 15:02:12.53] Conectando-se ao Servidor de Mapas...
+[2025.06.18 15:02:12.54] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 15:02:12.55] conectado
+[2025.06.18 15:02:12.70] You have successfully expanded the possession limit.
+[2025.06.18 15:02:12.79] Você está no jogo agora.
+[2025.06.18 15:02:12.82] Suas coordenadas: 139, 306
+[2025.06.18 15:02:12.84] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 15:02:12.85] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 15:02:12.93] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 15:02:12.93] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 15:02:12.94] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 15:02:12.95] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 15:02:12.95] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 15:02:13.11] ===================== Informações do Servidor =====================
+[2025.06.18 15:02:13.12] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 15:02:13.13] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 15:02:13.14] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 15:02:13.15] =====================================================================
+[2025.06.18 15:02:13.16] Você tem rodex não lidos.
+[2025.06.18 15:02:13.16] Você tem rodex não lidos.
+[2025.06.18 15:02:13.19] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 15:02:13.19] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 15:02:13.20] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 15:02:13.21] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 15:02:13.22] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 15:02:13.23] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 15:02:13.24] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 15:02:13.25] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 15:02:13.25] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 15:02:13.26] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 15:02:13.27] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 15:02:13.28] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 15:02:13.29] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 15:02:13.30] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 15:02:13.31] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 15:02:13.31] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 15:02:13.32] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 15:02:13.33] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 15:02:14.98] [dist=desconhecido] Desconhecido #3968: *Whistling*
+[2025.06.18 15:02:18.68] [dist=desconhecido] Desconhecido #3975: *Whistling*
+[2025.06.18 15:02:19.70] [dist=20.2] Monstro Flora (2): *Whistling*
+[2025.06.18 15:02:25.54] Calculando rota aleatória para: Monte Mjolnir (11) (mjolnir_11): 256, 225
+[2025.06.18 15:02:27.45] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 39 segundos...
+[2025.06.18 15:03:06.47] Conectando-se ao Servidor de Contas...
+[2025.06.18 15:03:06.49] Conectando-se (lt-account-01.gnjoylatam.com:6951)... [2025.06.18 15:03:06.50] conectado
+[2025.06.18 15:03:06.56] Desconectando-se (172.65.172.79:6951)...[2025.06.18 15:03:06.57] desconectado
+[2025.06.18 15:03:06.58] Conectando-se (lt-account-01.gnjoylatam.com:6900)... [2025.06.18 15:03:06.61] conectado
+[2025.06.18 15:03:06.66] ------ Informação da Conta -------
+ID da Conta: 1430721    C1 D4 15 00
+Sexo:        Feminino
+ID de Sessão: 3316873691 DB 79 B3 C5
+ID2 de Sessão: 0          00 00 00 00
+
+----------------------------------
+[2025.06.18 15:03:06.67] ----------------------------- Servidores -----------------------------
+#   Name                  Users  IP              Port   SID    State
+0   Freya                 10838  lt-world-1-04.g 4500   0      Idle
+1   Nidhogg               4408   lt-world-2-02.g 4500   0      Idle
+2   Yggdrasil             1628   lt-world-3-02.g 4500   0      Idle
+----------------------------------------------------------------------
+[2025.06.18 15:03:06.68] Fechando conexão com o Servidor de Contas
+[2025.06.18 15:03:06.69] Desconectando-se (172.65.172.79:6900)...[2025.06.18 15:03:06.69] desconectado
+[2025.06.18 15:03:06.70] Conectando-se ao Servidor de Personagens...
+[2025.06.18 15:03:06.71] Servidor selecionado: Yggdrasil
+[2025.06.18 15:03:06.72] Conectando-se (lt-world-3-02.gnjoylatam.com:4500)... [2025.06.18 15:03:06.73] conectado
+[2025.06.18 15:03:06.80] Personagens recebidos do Servidor de Personagens
+[2025.06.18 15:03:06.81] Esperando pelo pedido do código PIN
+[2025.06.18 15:03:06.81] O servidor pediu o código PIN para permitir a seleção de personagens.
+[2025.06.18 15:03:06.84] Código PIN correto.
+[2025.06.18 15:03:06.88] ---------------------------- Lista de Personagens -----------------------------
+Vaga 0: Santoca (Assassin, Feminino, nível 91/49, mjolnir_11)
+Vaga 1: asdafasfasf (Novice, Feminino, nível 1/1, Navio Naufragado)
+-------------------------------------------------------------------------------
+[2025.06.18 15:03:06.91] ID de personagem e IP do mapa recebidos do Servidor de Personagens.
+[2025.06.18 15:03:06.92] -----Informações do Jogo-----
+ID do Personagem  : FA D7 02 00 (186362)
+Nome do Mapa: mjolnir_11.gat
+IP do Mapa  : lt-world-3-02.gnjoylatam.com
+Porta do Mapa: 10019
+-----------------------------
+[2025.06.18 15:03:06.93] Fechando conexão com o Servidor de Personagens
+[2025.06.18 15:03:06.93] Desconectando-se (172.65.169.174:4500)...[2025.06.18 15:03:06.94] desconectado
+[2025.06.18 15:03:06.95] Conectando-se ao Servidor de Mapas...
+[2025.06.18 15:03:06.97] Conectando-se (lt-world-3-02.gnjoylatam.com:10019)... [2025.06.18 15:03:06.98] conectado
+[2025.06.18 15:03:07.12] You have successfully expanded the possession limit.
+[2025.06.18 15:03:07.19] Você está no jogo agora.
+[2025.06.18 15:03:07.22] Suas coordenadas: 193, 270
+[2025.06.18 15:03:07.24] Você alterou seu chapéu de baixo para Nada (0)
+[2025.06.18 15:03:07.25] Você alterou seu chapéu do topo para Chapéu de Calouro [1] (872)
+
+[2025.06.18 15:03:07.34] Permitir pedido de grupo de outros jogadores.
+[2025.06.18 15:03:07.35] Agora as informações de seus equipamentos não estão abertas para o público.
+[2025.06.18 15:03:07.37] Não Permitido ser chamado por habilidades: Chamado Urgente, Habilidades de Casamento, etc.
+[2025.06.18 15:03:07.38] Alimentação automática de Pet Desabilitada. (Função do Cliente)
+[2025.06.18 15:03:07.39] Alimentação automática de Homunculus Desabilitada. (Função do Cliente)
+[2025.06.18 15:03:07.54] ===================== Informações do Servidor =====================
+[2025.06.18 15:03:07.55] Taxa de Experiência: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 15:03:07.56] Taxa de Drop: 110% (Base 100% + Premium 0% + Servidor 10% + Adicional 0%) 
+[2025.06.18 15:03:07.57] Penalidade de Morte: 100% (Base 100% + Premium 0% + Servidor 0% + Adicional 0%) 
+[2025.06.18 15:03:07.58] =====================================================================
+[2025.06.18 15:03:07.58] Você tem rodex não lidos.
+[2025.06.18 15:03:07.59] Você tem rodex não lidos.
+[2025.06.18 15:03:07.61] Conquista 'Aventureiro Oficial' (200005) adicionado.
+[2025.06.18 15:03:07.62] Conquista 'Aspirante (1)' (200007) adicionado.
+[2025.06.18 15:03:07.63] Conquista 'Agilidade Impecável' (200020) adicionado.
+[2025.06.18 15:03:07.63] Conquista 'Ostentação (1)' (220009) adicionado.
+[2025.06.18 15:03:07.64] Conquista 'Ostentação (2)' (220010) adicionado.
+[2025.06.18 15:03:07.65] Conquista 'Ostentação (3)' (220011) adicionado.
+[2025.06.18 15:03:07.66] Conquista 'Ostentação (4)' (220012) adicionado.
+[2025.06.18 15:03:07.67] Conquista 'Ostentação (5)' (220013) adicionado.
+[2025.06.18 15:03:07.68] Conquista 'Bingo! (1)' (220023) adicionado.
+[2025.06.18 15:03:07.69] Conquista 'Bingo! (2)' (220024) adicionado.
+[2025.06.18 15:03:07.70] Conquista 'Bingo! (3)' (220025) adicionado.
+[2025.06.18 15:03:07.71] Conquista 'Bingo! (4)' (220026) adicionado.
+[2025.06.18 15:03:07.71] Conquista 'Poupança (1)' (220030) adicionado.
+[2025.06.18 15:03:07.72] Conquista 'Pesquisa sobre Porings (1)' (230201) adicionado.
+[2025.06.18 15:03:07.73] Conquista 'Primeiro Login' (240000) adicionado.
+[2025.06.18 15:03:07.74] Conquista 'Nv. de Conquista 1' (240001) adicionado.
+[2025.06.18 15:03:07.74] Conquista 'Nv. de Conquista 2' (240002) adicionado.
+[2025.06.18 15:03:07.75] Conquista 'Nv. de Conquista 3' (240003) adicionado.
+[2025.06.18 15:03:21.81] Desconectado do Servidor de Mapas, conectando-se ao Servidor de Contas em 35 segundos...
+[2025.06.18 15:03:25.97] Saindo...
+[2025.06.18 15:03:26.65] Plugin breakTime descarregado.
+[2025.06.18 15:03:26.17] [eventMacro] Plugin unloading
+[2025.06.18 15:03:26.25] Plugin eventMacro descarregado.
+[2025.06.18 15:03:26.28] Plugin item_weight_recorder descarregado.
+[2025.06.18 15:03:26.31] macro plugin unloading, [2025.06.18 15:03:26.33] cleaning up
+[2025.06.18 15:03:26.36] Plugin macro descarregado.
+[2025.06.18 15:03:26.41] map unloaded.
+[2025.06.18 15:03:26.46] Plugin map descarregado.
+[2025.06.18 15:03:26.49] Plugin profiles descarregado.
+[2025.06.18 15:03:26.52] [raiseSkill] Plugin descarregando ou recarregando
+[2025.06.18 15:03:26.55] Plugin raiseSkill descarregado.
+[2025.06.18 15:03:26.58] [raiseStat] Plugin descarregando ou recarregando
+[2025.06.18 15:03:26.61] Plugin raiseStat descarregado.
+[2025.06.18 15:03:26.65] Plugin reconnect descarregado.
+[2025.06.18 15:03:26.67] xConf plugin reloading or unloading
+[2025.06.18 15:03:26.73] Plugin xConf descarregado.
+[2025.06.18 15:03:26.76] *** xRAYS-CORE 1 ( version ctime:2025_06_18 ) - Custom Ragnarok Online client ***
+***   https://www.xrayscheat.com/   ***

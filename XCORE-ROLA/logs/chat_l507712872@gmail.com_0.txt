@@ -1,0 +1,47 @@
+[2025.06.18 13:31:10][GM] [Leptóteno] abriu [Desconhecido #104829] e recebeu o item [Máscara de Samurai].
+[2025.06.18 13:34:36][GM] [Nymph] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Jiboia].
+[2025.06.18 13:34:54][GM] [AdbA] abriu [Desconhecido #104829] e recebeu o item [Pergaminho de Armadura +8].
+[2025.06.18 13:36:21][GM] [ChampiPrist] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Jiboia].
+[2025.06.18 13:37:31][GM] [AdbA] abriu [Desconhecido #104829] e recebeu o item [Desconhecido #19265].
+[2025.06.18 13:37:51][GM] [Perseo7] abriu [Desconhecido #104830] e recebeu o item [Chapéu de Rideword].
+[2025.06.18 13:38:03][GM] [AdbA] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Eddga].
+[2025.06.18 13:42:05][GM] [AdbA] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Eddga].
+[2025.06.18 13:43:12][GM] [Mouscaa] abriu [Desconhecido #104829] e recebeu o item [Mochila da Aventura].
+[2025.06.18 13:44:36][GM] [Pintoreta] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Jiboia].
+[2025.06.18 13:44:57][GM] [Pintoreta] abriu [Desconhecido #104829] e recebeu o item [Asas de Sigrún].
+[2025.06.18 13:47:31][GM] [Ehashi] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Eddga].
+[2025.06.18 13:51:14][GM] [Mouscaa] abriu [Desconhecido #104830] e recebeu o item [Chapéu de Eddga].
+[2025.06.18 13:53:10][GM] [Edward Elric] abriu [Desconhecido #104829] e recebeu o item [Asas de Sigrún].
+[2025.06.18 14:00:31][GM] [Edward Elric] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Eddga].
+[2025.06.18 14:00:52][GM] [Edward Elric] abriu [Desconhecido #104830] e recebeu o item [Desconhecido #19265].
+[2025.06.18 14:04:28][GM] [iTot] abriu [Desconhecido #104830] e recebeu o item [Chapéu de Eddga].
+[2025.06.18 14:05:23][GM] [Nerk2k] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Jiboia].
+[2025.06.18 14:11:24][GM] [sieR V] abriu [Desconhecido #104829] e recebeu o item [Máscara de Samurai].
+[2025.06.18 14:11:53][GM] [Shuradepeg] abriu [Desconhecido #104829] e recebeu o item [Desconhecido #28953].
+[2025.06.18 14:12:18][GM] [Leptóteno] abriu [Desconhecido #104830] e recebeu o item [Chapéu de Rideword].
+[2025.06.18 14:12:33][GM] [Makinami] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Jiboia].
+[2025.06.18 14:13:40][GM] [sieR V] abriu [Desconhecido #104829] e recebeu o item [Asas de Sigrún].
+[2025.06.18 14:22:49][GM] [Barato] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Rideword].
+[2025.06.18 14:22:51][GM] [Barato] abriu [Desconhecido #104830] e recebeu o item [Pergaminho de Armadura +7].
+[2025.06.18 14:22:57][GM] [Barato] abriu [Desconhecido #104830] e recebeu o item [Mochila da Aventura].
+[2025.06.18 14:28:16][GM] [GatodBotas] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Jiboia].
+[2025.06.18 14:41:20][GM] [Safareno] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Rideword].
+[2025.06.18 14:42:51][GM] [Superfatureiro] abriu [Artefato Oval] e recebeu o item [Pergaminho de Armadura +7].
+[2025.06.18 14:45:35][GM] Bardis has got Carta Necromante from D4oB
+[2025.06.18 14:47:42][GM] [Safareno] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Jiboia].
+[2025.06.18 14:47:45][GM] [Monge Preto Velho] abriu [Desconhecido #104829] e recebeu o item [Máscara de Samurai].
+[2025.06.18 14:50:06][GM] [Safareto] abriu [Desconhecido #104829] e recebeu o item [Desconhecido #19265].
+[2025.06.18 14:50:14][GM] [Safareto] abriu [Desconhecido #104829] e recebeu o item [Mochila da Aventura].
+[2025.06.18 14:55:15][GM] [EduardoNetto] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Eddga].
+[2025.06.18 14:56:14][GM] [Low Budget] abriu [Desconhecido #104830] e recebeu o item [Desconhecido #19265].
+[2025.06.18 14:56:40][GM] [Low Budget] abriu [Desconhecido #104830] e recebeu o item [Chapéu de Jiboia].
+[2025.06.18 15:04:52][GM] [Relichia] abriu [Caixa de Visuais LATAM] e recebeu o item [[Visual] Visor do Ciborgue].
+[2025.06.18 15:05:06][GM] [Relichia] abriu [Caixa de Visuais LATAM] e recebeu o item [[Visual] Gorro de Cookie].
+[2025.06.18 15:05:34][GM] [Relichia] abriu [Caixa de Visuais LATAM] e recebeu o item [[Visual] Visor do Ciborgue].
+[2025.06.18 15:05:47][GM] [Relichia] abriu [Caixa de Visuais LATAM] e recebeu o item [[Visual] Chapéu de Ministro].
+[2025.06.18 15:06:15][GM] [Relichia] abriu [Caixa de Visuais LATAM] e recebeu o item [[Visual] Rastreador Sofisticado].
+[2025.06.18 15:06:21][GM] [Pururin] abriu [Desconhecido #104829] e recebeu o item [Mochila da Aventura].
+[2025.06.18 15:06:35][GM] [Pururin] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Eddga].
+[2025.06.18 15:09:38][GM] [0blivios] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Eddga].
+[2025.06.18 15:09:51][GM] [0blivios] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Rideword].
+[2025.06.18 15:15:49][GM] [Dreic] abriu [Desconhecido #104829] e recebeu o item [Chapéu de Rideword].

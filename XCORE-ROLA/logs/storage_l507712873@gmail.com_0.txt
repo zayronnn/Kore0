@@ -1,0 +1,74 @@
+---------- Armazém 2025.06.18 14:12:11 -----------
+ 0 [Especial] Amuleto de Siegfried x 15
+ 1 [Evento] Pergaminho de Defesa x 10
+ 2 [Evento] Poção Média de Vida x 10
+ 3 [Evento] Bolinho Divino x 2
+ 4 [Evento] Poção Ilimitada x 2
+ 5 [Evento] Poção Infinita x 1
+ 6 [Evento] Manual de Combate x 2
+ 7 [Evento] Poção Menor de Mana x 10
+ 8 [Evento] Poção Menor de Vida x 39
+ 9 Vale-Presença x 8
+10 [Evento] Poção Amarela Compacta x 300
+11 [Evento] Néctar Divino x 20
+12 Caixa de Rédea (3 Dias) x 1
+13 Poção Menor de Vida x 19
+14 [Evento] Poção de Regeneração x 30
+15 Poção Mental x 30
+16 Zargônio x 355
+17 Casca Rija x 1098
+18 Minério de Oridecon x 43
+19 Karvodailnirol x 9
+20 Esporo Venenoso x 1243
+21 Erva Verde x 93
+22 Aço x 16
+23 Esporo de Cogumelo x 133
+24 Asa de Mosca x 120
+25 Erva Azul x 6
+26 Uvas x 1
+27 Vento Bruto x 11
+28 Melão Amarelo x 90
+29 Flor x 1
+30 Muco Pegajoso x 8
+31 Garleta x 1
+32 Pão de Melão x 14
+33 Foice de Louva-a-Deus x 263
+34 Escama de Dragão x 421
+35 Erva Branca x 168
+36 Flor de Planta Carnívora x 116
+37 Cauda de Dragão x 46
+38 Sorvete de Melão x 5
+39 Scell x 49
+40 Erva Vermelha x 10
+41 Elunium x 3
+42 Canino de Dragão x 411
+43 Caule x 17
+44 Melão Sombrio x 40
+45 Rabo de Petite x 12
+46 Vida Verdejante x 2
+47 Melão Suspeito x 4
+48 Suco de Melão x 13
+49 Minério de Elunium x 3
+50 Pele de Meloring x 10
+51 Aloe Vera x 3
+52 Esmeralda x 1
+53 Carta Petite Voador x 2
+54 Folha de Aloe x 1
+55 Escamas de Cobra x 61
+56 Escama Brilhante x 83
+57 Canino Venenoso x 24
+58 Chapéu [1] x 1 -- Não Identificado
+59 Hélices x 1 -- Não Identificado
+60 Chapéu [1] x 1 -- Não Identificado
+61 Chapéu [1] x 1 -- Não Identificado
+62 Chapéu [1] x 1 -- Não Identificado
+63 Chapéu [1] x 1 -- Não Identificado
+64 Khukri x 1 -- Não Identificado
+65 [Evento] Abrasivo x 10
+66 Teia de Aranha x 55
+67 Pata de Besouro x 3
+68 Pata de Inseto x 65
+69 Casco de Inseto x 2
+
+Capacidade: 70/600
+-------------------------------
